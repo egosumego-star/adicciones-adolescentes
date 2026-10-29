@@ -1,0 +1,25 @@
+---
+import Base from '../../../layouts/Base.astro';
+import PostList from '../../../components/PostList.astro';
+import { LANGS, T, catName, catSlug, type Lang } from '../../../lib/i18n';
+import { allArticles } from '../../../lib/articles';
+import { articleLang } from '../../../lib/i18n';
+
+export async function getStaticPaths() {
+  const all = await allArticles();
+  const paths = [];
+  for (const lang of LANGS) {
+    const mine = all.filter((a) => articleLang(a.id) === lang);
+    const cats = new Map<string, string>();
+    mine.forEach((a) => a.data.categories.forEach((c) => cats.set(catSlug(c), c)));
+    for (const [cat, name] of cats) paths.push({ params: { lang, cat }, props: { name, posts: mine.filter((a) => a.data.categories.some((c) => catSlug(c) === cat)) } });
+  }
+  return paths;
+}
+const lang = Astro.params.lang as Lang;
+const { name, posts } = Astro.props;
+---
+<Base lang={lang} title={catName(name, lang)}>
+  <h1 class="page-title"><span class="label">{T[lang].category}</span> {catName(name, lang)}</h1>
+  <PostList lang={lang} posts={posts} />
+</Base>

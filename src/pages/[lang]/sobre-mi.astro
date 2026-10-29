@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import Subscribe from '../../components/Subscribe.astro';
+import { LANGS, T, type Lang } from '../../lib/i18n';
+import { AUTHOR, CONTACT_EMAIL } from '../../lib/config';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as Lang;
+const text = {
+  es: ['Soy enfermero especialista en adicciones, tanto a sustancias (alcohol, cocaína, cannabis…) como conductuales y tecnológicas, y trabajo desde hace años con adolescentes y sus familias.', 'Paso consulta, doy cursos y charlas, y colaboro en la formación de enfermeras y otros profesionales sanitarios. En este blog comparto lo que aprendo cada día en la consulta, para que padres, docentes y profesionales puedan entender y ayudar.'],
+  en: ['I am a nurse specialised in addictions, both to substances (alcohol, cocaine, cannabis…) and behavioural and technological ones, and I have worked for years with adolescents and their families.', 'I see patients, give courses and talks, and help train nurses and other health professionals. In this blog I share what I learn every day in my practice, so that parents, teachers and professionals can understand and help.'],
+  fr: ['Je suis infirmier spécialisé en addictions, aux substances (alcool, cocaïne, cannabis…) comme comportementales et technologiques, et je travaille depuis des années avec les adolescents et leurs familles.', 'Je consulte, je donne des formations et des conférences, et je participe à la formation des infirmières et d’autres professionnels de santé. Sur ce blog, je partage ce que j’apprends chaque jour en consultation, pour que parents, enseignants et professionnels puissent comprendre et aider.'],
+}[lang];
+---
+<Base lang={lang} title={T[lang].nav.about}>
+  <article class="article">
+    <header><h1>{AUTHOR}</h1></header>
+    <div class="prose">
+      {text.map((p) => <p>{p}</p>)}
+      <p><strong>Email:</strong> {CONTACT_EMAIL}</p>
+    </div>
+  </article>
+  <Subscribe lang={lang} />
+</Base>

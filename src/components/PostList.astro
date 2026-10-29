@@ -1,0 +1,19 @@
+---
+import { catName, articleSlug, fmtDate, niceTitle, catSlug, type Lang } from '../lib/i18n';
+import type { Article } from '../lib/articles';
+const { lang, posts } = Astro.props as { lang: Lang; posts: Article[] };
+---
+<ol class="posts">
+  {posts.map((p) => (
+    <li class="post">
+      <time datetime={p.data.date.toISOString().slice(0, 10)}>{fmtDate(p.data.date, lang)}</time>
+      <div>
+        <h3><a href={`/${lang}/${articleSlug(p.id)}/`}>{niceTitle(p.data.title)}</a></h3>
+        <p class="cats">
+          {p.data.categories.map((c) => <a href={`/${lang}/categoria/${catSlug(c)}/`}>{catName(c, lang)}</a>)}
+        </p>
+      </div>
+      {p.data.audio && <span class="has-audio" aria-label="Audio">▶</span>}
+    </li>
+  ))}
+</ol>

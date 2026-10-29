@@ -1,0 +1,58 @@
+---
+import { T, LANGS, LANG_NAMES, type Lang } from '../lib/i18n';
+import { AUTHOR } from '../lib/config';
+import '../styles/global.css';
+
+interface Props {
+  lang: Lang;
+  title?: string;
+  description?: string;
+  image?: string;
+  alternates?: Partial<Record<Lang, string>>;
+}
+const { lang, title, description, image, alternates = {} } = Astro.props;
+const t = T[lang];
+const pageTitle = title ? `${title} · ${t.siteName}` : `${t.siteName} · ${AUTHOR}`;
+const desc = description ?? t.tagline;
+const langHref = (l: Lang) => alternates[l] ?? `/${l}/`;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={t.siteName} href={`/${lang}/rss.xml`} />
+    {LANGS.filter((l) => alternates[l]).map((l) => <link rel="alternate" hreflang={l} href={new URL(alternates[l]!, Astro.site)} />)}
+    <meta property="og:title" content={title ?? t.siteName} />
+    <meta property="og:description" content={desc} />
+    {image && <meta property="og:image" content={image} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@500&display=swap" />
+  </head>
+  <body>
+    <header class="site-header wrap">
+      <a class="logo" href={`/${lang}/`}>{t.siteName.split(' ')[0]}<span>{t.siteName.split(' ').slice(1).join(' ')}</span></a>
+      <nav aria-label="Menú">
+        <a href={`/${lang}/`}>{t.nav.articles}</a>
+        <a href={`/${lang}/sobre-mi/`}>{t.nav.about}</a>
+      </nav>
+      <div class="langs" role="group" aria-label="Idioma">
+        {LANGS.map((l) => (
+          <a href={langHref(l)} hreflang={l} lang={l} aria-current={l === lang ? 'true' : undefined} title={LANG_NAMES[l]}>{l.toUpperCase()}</a>
+        ))}
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer wrap">
+      <span>{t.siteName} · {AUTHOR}</span>
+      <span>{t.footer}</span>
+      <a href={`/${lang}/rss.xml`}>RSS</a>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+---
+// La portada redirige al idioma del navegador (español por defecto)
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Adicciones Adolescentes</title>
+    <meta http-equiv="refresh" content="0; url=/es/" />
+    <link rel="canonical" href="/es/" />
+    <script is:inline>
+      const l = (navigator.language || 'es').slice(0, 2);
+      location.replace('/' + (['es', 'en', 'fr'].includes(l) ? l : 'es') + '/');
+    </script>
+  </head>
+  <body><a href="/es/">Adicciones Adolescentes</a></body>
+</html>

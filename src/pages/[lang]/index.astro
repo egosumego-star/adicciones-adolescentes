@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import Subscribe from '../../components/Subscribe.astro';
+import PostList from '../../components/PostList.astro';
+import { LANGS, T, type Lang } from '../../lib/i18n';
+import { articlesIn } from '../../lib/articles';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+const lang = Astro.params.lang as Lang;
+const t = T[lang];
+const posts = await articlesIn(lang);
+---
+<Base lang={lang}>
+  <section class="hero">
+    <div>
+      <h1>{t.heroA} <mark>{t.heroMark}</mark> {t.heroB}</h1>
+      <p class="lead">{t.heroP}</p>
+    </div>
+    <Subscribe lang={lang} />
+  </section>
+  <section>
+    <h2 class="label">{t.all} · {posts.length}</h2>
+    <PostList lang={lang} posts={posts} />
+  </section>
+</Base>

@@ -1,0 +1,19 @@
+---
+import { T, type Lang } from '../lib/i18n';
+import { NEWSLETTER_FORM } from '../lib/config';
+const { lang } = Astro.props as { lang: Lang };
+const t = T[lang];
+const action = NEWSLETTER_FORM[lang];
+---
+<aside class="subscribe">
+  <strong>{t.subTitle}</strong>
+  {action ? (
+    <form action={action} method="post" target="_blank">
+      <input type="email" name="fields[email]" required placeholder="email@ejemplo.com" aria-label="Email" />
+      <button type="submit">{t.subButton}</button>
+    </form>
+  ) : (
+    <p class="muted">{t.subSoon}</p>
+  )}
+  <small>{t.subText}</small>
+</aside>

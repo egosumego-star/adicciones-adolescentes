@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import Subscribe from '../../components/Subscribe.astro';
+import { render } from 'astro:content';
+import { T, LANGS, LANG_NAMES, catName, catSlug, fmtDate, niceTitle, articleLang, articleSlug, readingMinutes, type Lang } from '../../lib/i18n';
+import { allArticles, translationsOf } from '../../lib/articles';
+
+export async function getStaticPaths() {
+  const all = await allArticles();
+  return all.map((a) => ({ params: { lang: articleLang(a.id), slug: articleSlug(a.id) }, props: { article: a } }));
+}
+const { article } = Astro.props;
+const lang = Astro.params.lang as Lang;
+const t = T[lang];
+const { Content } = await render(article);
+const tr = await translationsOf(article);
+const alternates = Object.fromEntries(Object.entries(tr).map(([l, a]) => [l, `/${l}/${articleSlug(a!.id)}/`]));
+const others = LANGS.filter((l) => l !== lang && tr[l]);
+---
+<Base lang={lang} title={niceTitle(article.data.title)} description={article.data.description} image={article.data.image} alternates={alternates}>
+  <article class="article">
+    <header>
+      <p class="label">
+        <time datetime={article.data.date.toISOString().slice(0, 10)}>{fmtDate(article.data.date, lang)}</time>
+        · {readingMinutes(article.body)} {t.minutes}
+      </p>
+      <h1>{niceTitle(article.data.title)}</h1>
+      <p class="cats">{article.data.categories.map((c) => <a href={`/${lang}/categoria/${catSlug(c)}/`}>{catName(c, lang)}</a>)}</p>
+      {others.length > 0 && (
+        <p class="read-in">{t.readIn}: {others.map((l) => <a href={alternates[l]} hreflang={l} lang={l}>{LANG_NAMES[l]}</a>)}</p>
+      )}
+    </header>
+    {article.data.image && <img class="cover" src={article.data.image} alt="" loading="lazy" />}
+    {article.data.audio && (
+      <div class="player">
+        <span>{t.listen}</span>
+        <audio controls preload="none" src={article.data.audio}></audio>
+      </div>
+    )}
+    {article.data.review && <p class="note">{t.review}</p>}
+    <div class="prose"><Content /></div>
+  </article>
+  <Subscribe lang={lang} />
+  <p><a href={`/${lang}/`}>← {t.back}</a></p>
+</Base>
