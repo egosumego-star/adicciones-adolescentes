@@ -3,15 +3,15 @@ import { T, type Lang } from '../lib/i18n';
 import { NEWSLETTER_FORM } from '../lib/config';
 const { lang } = Astro.props as { lang: Lang };
 const t = T[lang];
-const action = NEWSLETTER_FORM[lang];
+const form = NEWSLETTER_FORM[lang];
 ---
 <aside class="subscribe">
   <strong>{t.subTitle}</strong>
-  {action ? (
-    <form action={action} method="post" target="_blank">
-      <input type="email" name="fields[email]" required placeholder="email@ejemplo.com" aria-label="Email" />
-      <button type="submit">{t.subButton}</button>
-    </form>
+  {form ? (
+    <>
+      <iframe data-skip-lazy="" src={form} frameborder="0" scrolling="no" width="100%" class="ipz-iframe" title={t.subTitle}></iframe>
+      <script is:inline data-cfasync="false" src="https://assets.ipzmarketing.com/assets/signup_form/iframe_v1.js"></script>
+    </>
   ) : (
     <p class="muted">{t.subSoon}</p>
   )}

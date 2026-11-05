@@ -80,3 +80,4 @@ main { display: flex; flex-direction: column; gap: 56px; padding-block: 24px 64p
   .hero { grid-template-columns: 1fr; }
   .post { grid-template-columns: 1fr; }
 }
+.subscribe iframe { border: 0; width: 100%; min-height: 120px; border-radius: 8px; }

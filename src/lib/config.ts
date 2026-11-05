@@ -2,6 +2,10 @@
 export const AUTHOR = 'José José Gil';
 export const CONTACT_EMAIL = 'correo@adiccionesadolescentes.com';
 
-// Dirección del formulario de MailerLite (u otro servicio) para cada idioma.
+// Formulario de suscripción de Mailrelay para cada idioma (la dirección «src» del iframe).
 // Mientras esté vacía, la web muestra «la newsletter estará disponible muy pronto».
-export const NEWSLETTER_FORM: Record<'es' | 'en' | 'fr', string> = { es: '', en: '', fr: '' };
+export const NEWSLETTER_FORM: Record<'es' | 'en' | 'fr', string> = {
+  es: 'https://adiccionesadolescentes.ipzmarketing.com/f/iZ4EN0jRf-4',
+  en: '',
+  fr: '',
+};
