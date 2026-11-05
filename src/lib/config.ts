@@ -7,5 +7,5 @@ export const CONTACT_EMAIL = 'correo@adiccionesadolescentes.com';
 export const NEWSLETTER_FORM: Record<'es' | 'en' | 'fr', string> = {
   es: 'https://adiccionesadolescentes.ipzmarketing.com/f/iZ4EN0jRf-4',
   en: 'https://adiccionesadolescentes.ipzmarketing.com/f/5ip1IoelEyw',
-  fr: '',
+  fr: 'https://adiccionesadolescentes.ipzmarketing.com/f/XgDhIfcydYk',
 };
