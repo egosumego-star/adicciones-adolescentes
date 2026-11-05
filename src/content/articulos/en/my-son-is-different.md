@@ -1,7 +1,8 @@
 ---
 title: "My son is different"
 date: 2022-07-08
-\1\naudio: "/media/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
+key: "mi-hijo-es-diferente-my-son-is-different"
+audio: "/media/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
 categories: ["PADRES","Tratamiento"]
 image: "/media/2022/07/MiHijo-es-Diferente-scaled.jpg"
 review: true

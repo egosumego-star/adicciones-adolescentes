@@ -1,7 +1,8 @@
 ---
 title: "What if our children were in charge?"
 date: 2021-12-20
-\1\naudio: "/media/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
+key: "y-si-mandaran-nuestros-hijos-what-if-our-children-were-in-charge"
+audio: "/media/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
 categories: ["Alcohol","Educación","PADRES"]
 image: "/media/2021/12/Y-SI-MANDARAN.jpg"
 review: true

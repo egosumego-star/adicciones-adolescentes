@@ -1,7 +1,8 @@
 ---
 title: "What are we raising: entrepreneurs, geniuses or fools?"
 date: 2021-10-22
-\1\naudio: "/media/2021/10/QUE-ESTAMOS-CRIANDO.mp3"
+key: "que-estamos-criando-emprendedores-genios-o-melones-what-are-we-breeding-entrepreneurs-geniuses-or-melons"
+audio: "/media/2021/10/QUE-ESTAMOS-CRIANDO.mp3"
 categories: ["Educación","PADRES","SALUD MENTAL"]
 image: "/media/2021/10/NinosEstudiando.jpg"
 review: true

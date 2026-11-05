@@ -1,7 +1,8 @@
 ---
 title: "Can addictions be cured?"
 date: 2022-03-17
-\1\naudio: "/media/2022/03/¿LAS-ADICCIONES-SE-CURAN.mp3"
+key: "las-adicciones-se-curan-can-addictions-be-cured"
+audio: "/media/2022/03/¿LAS-ADICCIONES-SE-CURAN.mp3"
 categories: ["Educación","SALUD MENTAL","Tabaco"]
 image: "/media/2022/03/Mujer-Fumando.jpg"
 review: true

@@ -1,7 +1,8 @@
 ---
 title: "When do we become adults?"
 date: 2020-02-06
-\1\naudio: "/media/2020/02/CUANDO-NOS-CONVERTIMOS-EN-ADULTOS.m4a"
+key: "cuando-nos-convertimos-en-adultos"
+audio: "/media/2020/02/CUANDO-NOS-CONVERTIMOS-EN-ADULTOS.m4a"
 categories: ["Educación","PADRES"]
 image: "/media/2020/02/CuandoAdultos.jpg"
 review: true

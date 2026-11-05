@@ -1,7 +1,8 @@
 ---
 title: "In consultation with an adolescent (part 2)"
 date: 2020-05-27
-\1\naudio: "/media/2020/05/EnConsulta2P.mp3"
+key: "en-la-consulta-con-el-adolescente-2aparte-in-consultation-with-an-adolescent-part-2"
+audio: "/media/2020/05/EnConsulta2P.mp3"
 categories: ["Educación","PADRES","Tratamiento"]
 image: "/media/2020/05/Consulta2.jpeg"
 review: true

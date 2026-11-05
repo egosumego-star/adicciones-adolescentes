@@ -1,7 +1,8 @@
 ---
 title: "Miracles also exist"
 date: 2020-10-04
-\1\naudio: "/media/2020/10/LOS-MILAGROS.mp3"
+key: "los-milagros-tambien-existen-miracles-also-exist"
+audio: "/media/2020/10/LOS-MILAGROS.mp3"
 categories: ["PADRES","SALUD MENTAL","Tecnología"]
 image: "/media/2020/10/LosMilagros.jpg"
 review: true

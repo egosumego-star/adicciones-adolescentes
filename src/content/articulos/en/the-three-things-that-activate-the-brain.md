@@ -1,7 +1,8 @@
 ---
 title: "The three things that activate the brain"
 date: 2019-12-14
-\1\naudio: "/media/2019/12/LAS-TRES-COSAS.m4a"
+key: "las-tres-cosas-que-activan-el-cerebro"
+audio: "/media/2019/12/LAS-TRES-COSAS.m4a"
 categories: ["Educación","PADRES","Tratamiento"]
 image: "/media/2019/12/TresC.png.png"
 review: true

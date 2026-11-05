@@ -1,7 +1,8 @@
 ---
 title: "Story of a teenager"
 date: 2024-02-02
-\1\naudio: "/media/2024/02/HISTORIA-copia.wav"
+key: "historia-de-un-adolescente-story-of-a-teenager"
+audio: "/media/2024/02/HISTORIA-copia.wav"
 categories: []
 image: "/media/2024/02/Borracho.jpeg"
 review: true

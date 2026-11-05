@@ -1,7 +1,8 @@
 ---
 title: "Gifted children: you ask a child and an adult answers"
 date: 2023-01-31
-\1\naudio: "/media/2023/01/ALTAS-CAPACIDADES.mp3"
+key: "altas-capacidades-cuando-le-preguntas-a-un-nino-y-te-responde-un-adulto"
+audio: "/media/2023/01/ALTAS-CAPACIDADES.mp3"
 categories: ["Educación","PADRES"]
 image: "/media/2023/01/AltasCapacidades.jpg"
 review: true

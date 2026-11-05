@@ -1,7 +1,8 @@
 ---
 title: "What if AI knows more about your child than you do?"
 date: 2025-08-08
-\1\naudio: "/media/2025/08/Hijo-IA.mp3"
+key: "ia-y-tu-hijo"
+audio: "/media/2025/08/Hijo-IA.mp3"
 categories: []
 image: "/media/2025/08/Hijo-IA.png"
 ---

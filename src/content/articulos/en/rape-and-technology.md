@@ -1,7 +1,8 @@
 ---
 title: "Rape and technology"
 date: 2023-11-23
-\1\naudio: "/media/2023/11/VIOLACIONTECNOLOGIAS.mp3"
+key: "violacion-y-tecnologias"
+audio: "/media/2023/11/VIOLACIONTECNOLOGIAS.mp3"
 categories: ["Educación","Tecnología"]
 image: "/media/2023/11/Control-dorgas-700x.jpg"
 review: true

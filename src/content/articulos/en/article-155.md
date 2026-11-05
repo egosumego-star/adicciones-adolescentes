@@ -1,7 +1,8 @@
 ---
 title: "Article 155"
 date: 2021-05-31
-\1\naudio: "/media/2021/05/ARTICULO155.mp3"
+key: "articulo-155-article-155"
+audio: "/media/2021/05/ARTICULO155.mp3"
 categories: ["Delincuente","Educación","PADRES","Tecnología"]
 image: "/media/2021/05/Articulo155.jpg"
 review: true
