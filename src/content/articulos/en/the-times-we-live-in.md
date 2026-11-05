@@ -1,7 +1,7 @@
 ---
 title: "The times we live in"
 date: 2021-07-10
-key: "la-epoca-que-nos-ha-tocado-vivir-the-times-we-live-in"
+\1\naudio: "/media/2021/07/LA-EPOCA.mp3"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
 image: "/media/2021/07/Epoca.jpg"
 review: true

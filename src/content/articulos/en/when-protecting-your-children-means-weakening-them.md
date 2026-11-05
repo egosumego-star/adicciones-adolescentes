@@ -1,7 +1,7 @@
 ---
 title: "When protecting your children means weakening them"
 date: 2020-09-04
-key: "cuando-proteger-es-debilitar-a-los-hijos-when-protecting-your-children-means-weakening-them"
+\1\naudio: "/media/2020/09/CUANDOPROTEGER.mp3"
 categories: ["Educación","PADRES"]
 image: "/media/2020/09/CuandoProteger-scaled.jpg"
 review: true

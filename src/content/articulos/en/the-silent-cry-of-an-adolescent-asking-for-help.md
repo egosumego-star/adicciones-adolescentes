@@ -1,7 +1,7 @@
 ---
 title: "The silent cry of an adolescent asking for help"
 date: 2024-06-08
-key: "el-grito-mudo-de-un-adolescente-pidiendo-ayuda-the-silent-cry-of-an-adolescent-asking-for-help"
+\1\naudio: "/media/2024/06/EL-SILENCIO-DE-SOFIA.mp3"
 categories: ["Educación","PADRES","SALUD MENTAL","Tratamiento"]
 image: "/media/2024/06/GRITOMudo.png"
 review: true

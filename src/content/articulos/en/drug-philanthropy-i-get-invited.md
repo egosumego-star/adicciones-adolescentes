@@ -1,7 +1,7 @@
 ---
 title: "Drug philanthropy: I get invited!"
 date: 2019-09-13
-key: "la-filantropia-de-la-droga-a-mi-me-invitan"
+\1\naudio: "/media/2019/09/LA-FILANTROPÍA-DE-LA-DROGA.m4a"
 categories: ["Tratamiento"]
 review: true
 ---

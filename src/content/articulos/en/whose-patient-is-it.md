@@ -1,7 +1,7 @@
 ---
 title: "Whose patient is it?"
 date: 2020-03-18
-key: "de-quien-es-el-paciente"
+\1\naudio: "/media/2020/03/¿DE-QUIEN-ES-EL-PACIENTE.mp3"
 categories: ["Educación","Tratamiento"]
 image: "/media/2020/03/De-quien-es.jpg"
 review: true

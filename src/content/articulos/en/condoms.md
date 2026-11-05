@@ -1,7 +1,7 @@
 ---
 title: "Condoms"
 date: 2021-03-27
-key: "condones-condoms"
+\1\naudio: "/media/2021/03/CondonesP.mp3"
 categories: ["Educación","PADRES","SEXO"]
 image: "/media/2021/03/condones.jpg"
 review: true

@@ -1,7 +1,7 @@
 ---
 title: "The traumas of our childhood"
 date: 2021-01-20
-key: "los-traumas-de-nuestra-ninez-the-traumas-of-our-childhood"
+\1\naudio: "/media/2021/01/LOS-TRAUMAS.mp3"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
 image: "/media/2021/01/Traumas.jpg"
 review: true

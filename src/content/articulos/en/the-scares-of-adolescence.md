@@ -1,7 +1,7 @@
 ---
 title: "The scares of adolescence"
 date: 2023-04-26
-key: "los-sustos-de-la-adolescencia"
+\1\naudio: "/media/2023/04/LosSUSTOS.mp3"
 categories: ["Educación","PADRES"]
 image: "/media/2023/04/losSUSTOS1.jpg"
 review: true

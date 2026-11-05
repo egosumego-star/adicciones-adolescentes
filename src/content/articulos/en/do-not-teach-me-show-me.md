@@ -1,7 +1,7 @@
 ---
 title: "Don’t teach me, show me!"
 date: 2020-11-21
-key: "no-me-ensenes-demuestramelo-do-not-teach-me-show-it-to-me"
+\1\naudio: "/media/2020/11/NOMEENSENES.mp3"
 categories: ["Educación","PADRES","Tratamiento"]
 image: "/media/2020/11/NOmeEnsenes-1.jpg"
 review: true

@@ -1,7 +1,7 @@
 ---
 title: "Et si l’IA connaissait mieux votre enfant que vous ?"
 date: 2025-08-08
-key: "ia-y-tu-hijo"
+\1\naudio: "/media/2025/08/Hijo-IA.mp3"
 categories: []
 image: "/media/2025/08/Hijo-IA.png"
 ---

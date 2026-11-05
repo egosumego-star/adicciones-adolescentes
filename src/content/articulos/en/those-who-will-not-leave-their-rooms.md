@@ -1,7 +1,7 @@
 ---
 title: "Those who will not leave their rooms"
 date: 2021-08-25
-key: "problemas-para-dejar-las-tecnologias"
+\1\naudio: "/media/2021/08/LOS-QUE-NO-SALDRAN.mp3"
 categories: ["Educación","PADRES","SALUD MENTAL","Tecnología"]
 image: "/media/2021/08/adolescente-cuarto.jpg"
 review: true

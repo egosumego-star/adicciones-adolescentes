@@ -1,7 +1,7 @@
 ---
 title: "Siblings: sharks in a fishbowl"
 date: 2020-07-11
-key: "hermanos-tiburones-en-una-pecera-siblings-sharks-in-a-fishbowl"
+\1\naudio: "/media/2020/07/HERMANOS.mp3"
 categories: ["Educación","PADRES"]
 image: "/media/2020/07/Hermanos.jpg"
 review: true

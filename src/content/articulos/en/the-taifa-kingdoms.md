@@ -1,7 +1,7 @@
 ---
 title: "The taifa kingdoms"
 date: 2022-01-31
-key: "los-reinos-de-taifas-the-kingdoms"
+\1\naudio: "/media/2022/01/LOS-REINOS.mp3"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
 image: "/media/2022/01/people-g26cfaeb41_1920.jpg"
 review: true

@@ -1,7 +1,7 @@
 ---
 title: "The blackmail of our children"
 date: 2021-02-23
-key: "el-chantaje-de-nuestros-hijos-the-blackmail-of-our-children"
+\1\naudio: "/media/2021/02/CHANTAJE.mp3"
 categories: ["PADRES","SALUD MENTAL"]
 image: "/media/2021/02/CHANTAJE.jpg"
 review: true
