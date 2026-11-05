@@ -3,7 +3,7 @@ title: "The blackmail of our children"
 date: 2021-02-23
 key: "el-chantaje-de-nuestros-hijos-the-blackmail-of-our-children"
 categories: ["PADRES","SALUD MENTAL"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/02/CHANTAJE.jpg"
+image: "/media/2021/02/CHANTAJE.jpg"
 review: true
 ---
 

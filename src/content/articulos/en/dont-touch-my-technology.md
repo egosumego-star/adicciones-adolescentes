@@ -3,12 +3,12 @@ title: "Don't touch my technology"
 date: 2018-09-01
 key: "no-me-toques-las-tecnologias"
 categories: ["PADRES","Tecnología"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/09/NO-ME-TOQUES-LAS-TECNOLOGÍAS.m4a"
+audio: "/media/2018/09/NO-ME-TOQUES-LAS-TECNOLOGÍAS.m4a"
 description: "How to put down the phones and go back to books."
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/09/NO-TOQUES-TECNOLOGIAS.jpg)If you want to listen to the article in the author's voice:
+![](/media/2018/09/NO-TOQUES-TECNOLOGIAS.jpg)If you want to listen to the article in the author's voice:
 
 Thanks to the work of **Sara Cremades González** (teacher and philologist), we can offer this article in English.
 

@@ -3,7 +3,7 @@ title: "What comes first, illness or addiction?"
 date: 2025-03-17
 key: "enfermedad-o-adiccion"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/03/QUE-ES-PRIMERO.png"
+image: "/media/2025/03/QUE-ES-PRIMERO.png"
 ---
 
 Today, we address a question that deeply concerns many families: what comes first, addiction or mental illness? This dilemma, similar to the chicken and the egg, leads us to reflect on the relationship between these two conditions and their impact on our adolescent children

@@ -12,7 +12,7 @@ A student who was with me during a session with the parents of an “angry” ad
 
 “I have a 16-year-old son who lately gives me a little shove every time he comes into the house... I know something is going on with him, but I can’t
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/06/Adolescente1-300x150.jpg) Why don’t you understand me?
+![](/media/2016/06/Adolescente1-300x150.jpg) Why don’t you understand me?
 
 find out what, however much I ask him. On the contrary, the more I ask, the more irritated he gets, and it ends with: Leave me alone!
 

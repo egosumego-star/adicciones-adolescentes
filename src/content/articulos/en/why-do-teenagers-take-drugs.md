@@ -3,13 +3,13 @@ title: "Why do teenagers take drugs?"
 date: 2019-05-02
 key: "por-que-se-drogan-los-adolescentes"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/¿Porque-se-drogan.jpg"
+image: "/media/2019/05/¿Porque-se-drogan.jpg"
 review: true
 ---
 
 If you want to listen to the article read by the author:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
+<audio src="/media/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
 
 Thanks to the work of Sara Cremades González (teacher and philologist), we can offer this article in English.
 

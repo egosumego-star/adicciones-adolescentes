@@ -3,8 +3,8 @@ title: "EN LA CONSULTA CON EL ADOLESCENTE (2ªParte)"
 date: 2020-05-27
 key: "en-la-consulta-con-el-adolescente-2aparte-in-consultation-with-an-adolescent-part-2"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/05/Consulta2.jpeg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/05/EnConsulta2P.mp3"
+image: "/media/2020/05/Consulta2.jpeg"
+audio: "/media/2020/05/EnConsulta2P.mp3"
 ---
 
 Si quieres escuchar este artículo en la voz del autor:

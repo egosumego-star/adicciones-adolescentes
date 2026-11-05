@@ -3,13 +3,13 @@ title: "Pourquoi mon fils me déteste-t-il ?"
 date: 2018-12-23
 key: "por-que-mi-hijo-me-odia"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/NiñaCabreada-1.jpg"
+image: "/media/2018/12/NiñaCabreada-1.jpg"
 review: true
 ---
 
 Si vous souhaitez écouter l'article avec la voix de l'auteur :
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
+<audio src="/media/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
 
 Il est rare qu'une journée passe sans que j'entende cette plainte :
 

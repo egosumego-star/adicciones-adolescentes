@@ -3,10 +3,10 @@ title: "¿Por Que son tan Geniales los Adolescentes?"
 date: 2017-11-11
 key: "tan-geniales-los-adolescentes"
 categories: []
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
+audio: "/media/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Childi.jpg)Si quieres escuchar el artículo leído por el autor:
+![](/media/2017/11/Childi.jpg)Si quieres escuchar el artículo leído por el autor:
 
 Desde la antigüedad a los adolescentes se las ha puesto "como hoja de perejil”:  
 Hace aproximadamente 2500 años Sócrates, decía: “Los jóvenes de hoy son unos tiranos. Contradicen a sus padres, devoran la comida y le faltan al respeto a sus maestros”.  

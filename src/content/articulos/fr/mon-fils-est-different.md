@@ -3,8 +3,8 @@ title: "Mon fils est différent"
 date: 2022-07-08
 key: "mi-hijo-es-diferente-my-son-is-different"
 categories: ["PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/07/MiHijo-es-Diferente-scaled.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
+image: "/media/2022/07/MiHijo-es-Diferente-scaled.jpg"
+audio: "/media/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
 description: "Lors d'une rencontre fortuite avec une mère, nous avons évoqué les moments clés de la prise en charge de son fils. Sa persévérance a donné les meilleurs résultats."
 review: true
 ---

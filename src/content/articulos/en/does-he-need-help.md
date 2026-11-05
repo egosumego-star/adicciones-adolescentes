@@ -3,11 +3,11 @@ title: "Does he need help?"
 date: 2018-10-04
 key: "necesita-ayuda"
 categories: ["PADRES","SALUD MENTAL"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/NECESITA-AYUDA.m4a"
+audio: "/media/2018/10/NECESITA-AYUDA.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Teenager smoking") If you want to listen to the article in the author's voice:
+![](/media/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Teenager smoking") If you want to listen to the article in the author's voice:
 
 Thanks to the work of Sara Cremades González (teacher and philologist), we can offer this article in English.
 

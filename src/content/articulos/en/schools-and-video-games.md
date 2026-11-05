@@ -8,13 +8,13 @@ review: true
 
 ## **Enemies or allies?**
 
-[![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/IESPORTS.jpg)](https://play.iesports.es)
+[![](/media/2019/01/IESPORTS.jpg)](https://play.iesports.es)
 
 IESPORTS
 
 If you would like to listen to the article in the author’s voice (in Spanish):
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
+<audio src="/media/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
 
 *Translated by Sara Cremades González (teacher and philologist).*
 

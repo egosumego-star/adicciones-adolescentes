@@ -3,13 +3,13 @@ title: "Pourquoi les adolescents se droguent-ils ?"
 date: 2019-05-02
 key: "por-que-se-drogan-los-adolescentes"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/¿Porque-se-drogan.jpg"
+image: "/media/2019/05/¿Porque-se-drogan.jpg"
 review: true
 ---
 
 Si vous souhaitez écouter l'article lu par l'auteur :
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
+<audio src="/media/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
 
 Selon les derniers résultats de l'enquête EDADES, les adolescents consomment de l'alcool et du tabac pour la première fois avant 14 ans, et du cannabis avant 15 ans.
 

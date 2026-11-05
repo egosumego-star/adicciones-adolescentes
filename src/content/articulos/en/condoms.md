@@ -3,7 +3,7 @@ title: "Condoms"
 date: 2021-03-27
 key: "condones-condoms"
 categories: ["Educación","PADRES","SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/03/condones.jpg"
+image: "/media/2021/03/condones.jpg"
 review: true
 ---
 

@@ -3,8 +3,8 @@ title: "Les traumatismes de notre enfance"
 date: 2021-01-20
 key: "los-traumas-de-nuestra-ninez-the-traumas-of-our-childhood"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/01/Traumas.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/01/LOS-TRAUMAS.mp3"
+image: "/media/2021/01/Traumas.jpg"
+audio: "/media/2021/01/LOS-TRAUMAS.mp3"
 description: "Il est aussi important d'aider la personne à sortir de son addiction que de découvrir ce qui l'a provoquée."
 review: true
 ---

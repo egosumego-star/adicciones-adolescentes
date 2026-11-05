@@ -3,8 +3,8 @@ title: "Ne me l'apprends pas, montre-le-moi !"
 date: 2020-11-21
 key: "no-me-ensenes-demuestramelo-do-not-teach-me-show-it-to-me"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/11/NOmeEnsenes-1.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/11/NOMEENSENES.mp3"
+image: "/media/2020/11/NOmeEnsenes-1.jpg"
+audio: "/media/2020/11/NOMEENSENES.mp3"
 description: "Aujourd'hui, être parent est très compliqué. Nous voulons le meilleur pour nos enfants, mais nous faisons le contraire de ce que nous prêchons."
 review: true
 ---

@@ -6,7 +6,7 @@ categories: ["Educación","Tratamiento"]
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/03/Alumnos.jpg)
+![](/media/2019/03/Alumnos.jpg)
 
 Si vous souhaitez écouter l’article lu par l’auteur :
 

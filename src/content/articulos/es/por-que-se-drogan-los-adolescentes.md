@@ -3,12 +3,12 @@ title: "¿POR QUÉ SE DROGAN LOS ADOLESCENTES?"
 date: 2019-05-02
 key: "por-que-se-drogan-los-adolescentes"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/¿Porque-se-drogan.jpg"
+image: "/media/2019/05/¿Porque-se-drogan.jpg"
 ---
 
 Si quieres escuchar el artículo leído por el autor:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
+<audio src="/media/2019/05/Por-que-se-drogan-los-adolescentes.m4a" controls="controls"></audio>
 
 **¿**     Según los últimos resultados de la encuesta EDADES, los adolescentes tienen el primer consumo de alcohol y tabaco antes de cumplir los 14 años y de Cánnabis antes de los 15.
 

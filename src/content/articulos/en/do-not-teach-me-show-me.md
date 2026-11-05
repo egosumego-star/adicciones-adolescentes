@@ -3,7 +3,7 @@ title: "Don’t teach me, show me!"
 date: 2020-11-21
 key: "no-me-ensenes-demuestramelo-do-not-teach-me-show-it-to-me"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/11/NOmeEnsenes-1.jpg"
+image: "/media/2020/11/NOmeEnsenes-1.jpg"
 review: true
 ---
 

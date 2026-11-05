@@ -3,8 +3,8 @@ title: "Haut potentiel : quand on interroge un enfant et qu’un adulte répond"
 date: 2023-01-31
 key: "altas-capacidades-cuando-le-preguntas-a-un-nino-y-te-responde-un-adulto"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/01/AltasCapacidades.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/01/ALTAS-CAPACIDADES.mp3"
+image: "/media/2023/01/AltasCapacidades.jpg"
+audio: "/media/2023/01/ALTAS-CAPACIDADES.mp3"
 description: "La malédiction des surdoués."
 review: true
 ---

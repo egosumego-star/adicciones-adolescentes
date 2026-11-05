@@ -3,11 +3,11 @@ title: "L’hypocrisie de l’alcool"
 date: 2018-04-13
 key: "la-hipocresia-del-alcohol"
 categories: ["Alcohol","PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
+audio: "/media/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/Adolescentes-alcohol.jpg "Mineurs en train de boire") Mineurs en train de boire...
+![](/media/2018/04/Adolescentes-alcohol.jpg "Mineurs en train de boire") Mineurs en train de boire...
 
 Si vous souhaitez écouter l’article avec la voix de l’auteur (en espagnol) :
 

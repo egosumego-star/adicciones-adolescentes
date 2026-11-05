@@ -3,8 +3,8 @@ title: "Comment aider un jeune délinquant"
 date: 2018-08-06
 key: "como-ayudar-a-un-delincuente-how-to-help-a-criminal"
 categories: ["Delincuente","Educación"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2018/08/AyudarDelincuente.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/08/COMO-AYUDAR-A-UN-DELINCUENTE.m4a"
+image: "/media/2018/08/AyudarDelincuente.jpg"
+audio: "/media/2018/08/COMO-AYUDAR-A-UN-DELINCUENTE.m4a"
 review: true
 ---
 

@@ -3,7 +3,7 @@ title: "The times we live in"
 date: 2021-07-10
 key: "la-epoca-que-nos-ha-tocado-vivir-the-times-we-live-in"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/07/Epoca.jpg"
+image: "/media/2021/07/Epoca.jpg"
 review: true
 ---
 

@@ -5,7 +5,7 @@ key: "el-capullo-adolescente"
 categories: []
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/09/mariposa-1024x683.jpg)
+![](/media/2017/09/mariposa-1024x683.jpg)
 
 Cuando empecé a trabajar con los padres de los adolescentes, me resultaba muy complicado explicarles qué estaba ocurriendo física y emocionalmente con sus hijos, sin caer en un lenguaje lleno de tecnicismos y "palabros", que lejos de hacerme entender demostraba mi torpeza para conectar con ellos, cuando estaban pasándolo tan mal.  
 Entonces decidí utilizar un ejemplo de la naturaleza para facilitar la comprensión, en concreto la transformación del gusano de seda:  

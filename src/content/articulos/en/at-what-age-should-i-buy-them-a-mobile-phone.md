@@ -3,13 +3,13 @@ title: "At what age should I buy them a mobile phone?"
 date: 2019-07-05
 key: "a-que-edad-le-compro-el-movil"
 categories: ["PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2017/10/NiñoMOvilValle.jpg"
+image: "/media/2017/10/NiñoMOvilValle.jpg"
 review: true
 ---
 
 If you would like to listen to the article in the author's voice:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/07/A-QUE-EDAD-LE-COMPRO-EL-MÓVIL.m4a.m4a" controls="controls"></audio>
+<audio src="/media/2019/07/A-QUE-EDAD-LE-COMPRO-EL-MÓVIL.m4a.m4a" controls="controls"></audio>
 
 This is the question that always comes up in talks for parents or professionals.
 

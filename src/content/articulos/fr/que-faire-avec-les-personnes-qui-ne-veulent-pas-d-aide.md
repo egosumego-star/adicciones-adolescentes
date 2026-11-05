@@ -3,11 +3,11 @@ title: "Que faire avec les personnes qui ne veulent pas d’aide ?"
 date: 2018-03-19
 key: "que-podemos-hacer-con-las-personas-que-no-quieren-ayuda"
 categories: ["Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/03/Que-podemos-hacer-con-las-Personas.m4a"
+audio: "/media/2018/03/Que-podemos-hacer-con-las-Personas.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/03/alcohol.jpg)
+![](/media/2018/03/alcohol.jpg)
 
 Si vous voulez écouter l’article avec la voix de l’auteur :
 

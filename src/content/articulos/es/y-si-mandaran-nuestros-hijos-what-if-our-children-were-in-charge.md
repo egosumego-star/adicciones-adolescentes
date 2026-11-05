@@ -3,8 +3,8 @@ title: "¿Y SI MANDARAN NUESTROS HIJOS?"
 date: 2021-12-20
 key: "y-si-mandaran-nuestros-hijos-what-if-our-children-were-in-charge"
 categories: ["Alcohol","Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/12/Y-SI-MANDARAN.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
+image: "/media/2021/12/Y-SI-MANDARAN.jpg"
+audio: "/media/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
 description: "LA SALUD DE UN HIJO NO ES NEGOCIABLE Y LOS PADRES SON LOS UNICOS RESPONSABLES."
 ---
 

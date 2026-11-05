@@ -5,11 +5,11 @@ key: "ahi-os-lo-dejo-cuando-este-curado-me-lo-llevo"
 categories: ["Educación","PADRES","Tratamiento"]
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/couch-2615796_960_720.jpg)
+![](/media/2019/02/couch-2615796_960_720.jpg)
 
 Si deseas escuchar el artículo en la voz del autor:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
+<audio src="/media/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
 
 Hace un tiempo estábamos trabajando con una familia y su hijo de 14 años. Llevábamos las primeras sesiones cuando un día apareció el padre muy cabreado arrastrando de la mano al hijo. De pronto y sin mediar palabra entró en el único despacho que en aquel momento tenía la puerta abierta y exclamo con voz de hartazgo: ¡Ahí os lo dejo! ¡cuando esté curado me lo llevo!.  
  A continuación se dió la vuelta y se marchó dejando a su vástago en la consulta. El niño, como estatua de sal, permaneció inmóvil con la cabeza baja.

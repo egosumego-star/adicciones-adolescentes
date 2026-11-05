@@ -3,7 +3,7 @@ title: "¿POR QUÉ SON TAN DISTINTOS NUESTROS ADOLESCENTES?"
 date: 2017-04-03
 key: "tan-distintos-actuales-adolescentes"
 categories: ["PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2016/03/mia-teen-visit1.jpg"
+image: "/media/2016/03/mia-teen-visit1.jpg"
 ---
 
 Con el comienzo de la adolescencia – de los 10 a los 12 años - nuestros menores se enfrentan a una serie de cambios drásticos en sus vidas y en las de su familia:  

@@ -8,7 +8,7 @@ categories: ["PADRES"]
 Desde hace unos años los padres vivimos acomplejados con la aparición de las Nuevas Tecnologías (NT). Vemos como nuestros hijos se hacen rápidamente con ellas, mientras miramos atónitos sus habilidades.  
 Al mismo tiempo, no paran de aparecer noticias sobre delitos cometidos con estas tecnologías, lo que nos angustia todavía más al pensar que pueden ser víctimas de algún desaprensivo.  
 Como no sabemos qué hacer, solo nos queda observar y vigilar los comportamientos no habituales de nuestros vástagos.  
-Pero por si lo anterior fuera poco, tenemos que tener en cuenta que con la entrada de la adolescencia, todo es nuevo para ellos: su cuerpo, su manera de pensar, sus amigos. Lógicamente se van a comportar de una manera totalmente distinta a como lo han hecho hasta ahora, motivo por el cual acabamos, los padres, más que desorientados.![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/08/IMG-20170810-WA0012-1024x648.jpg)  
+Pero por si lo anterior fuera poco, tenemos que tener en cuenta que con la entrada de la adolescencia, todo es nuevo para ellos: su cuerpo, su manera de pensar, sus amigos. Lógicamente se van a comportar de una manera totalmente distinta a como lo han hecho hasta ahora, motivo por el cual acabamos, los padres, más que desorientados.![](/media/2017/08/IMG-20170810-WA0012-1024x648.jpg)  
 ¿Este es un problema nuevo? o en realidad es ¿"como los de toda la vida" con un nombre nuevo?.  
 Por ejemplo: Cuando nos compraron nuestra primera pelota, bici, moto, etc... **Jamás nos la entregaron sin darnos unas Normas de utilización**:  
 ·      Si le das en el centro la pelota saldrá recta.  

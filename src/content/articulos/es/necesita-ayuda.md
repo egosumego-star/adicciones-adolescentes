@@ -3,10 +3,10 @@ title: "¿NECESITA AYUDA?"
 date: 2018-10-04
 key: "necesita-ayuda"
 categories: ["PADRES","SALUD MENTAL"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/NECESITA-AYUDA.m4a"
+audio: "/media/2018/10/NECESITA-AYUDA.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Adolescente fumando") Si quieres escuchar el artículo con la voz del autor:
+![](/media/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Adolescente fumando") Si quieres escuchar el artículo con la voz del autor:
 
 El ser humano desde el mismo nacimiento necesita ayuda para subsistir, además tenemos el periodo de crianza más largo de todos los seres vivos.  
 Pero esta ayuda es especialmente importante en las enfermedades mentales y en las adicciones. En ambos casos el enfermo no es consciente de su enfermedad y en muchas ocasiones se niega a ser tratado.  

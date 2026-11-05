@@ -3,8 +3,8 @@ title: "Qu'élevons-nous : des entrepreneurs, des génies ou des cornichons ?"
 date: 2021-10-22
 key: "que-estamos-criando-emprendedores-genios-o-melones-what-are-we-breeding-entrepreneurs-geniuses-or-melons"
 categories: ["Educación","PADRES","SALUD MENTAL"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/10/NinosEstudiando.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/10/QUE-ESTAMOS-CRIANDO.mp3"
+image: "/media/2021/10/NinosEstudiando.jpg"
+audio: "/media/2021/10/QUE-ESTAMOS-CRIANDO.mp3"
 description: "Être parents, enseignants ou soignants, c'est notre travail quotidien et notre héritage pour l'avenir de nos enfants, de nos élèves et de nos patients."
 review: true
 ---

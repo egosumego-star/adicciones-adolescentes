@@ -3,8 +3,8 @@ title: "CUANDO PROTEGER ES DEBILITAR A LOS HIJOS"
 date: 2020-09-04
 key: "cuando-proteger-es-debilitar-a-los-hijos-when-protecting-your-children-means-weakening-them"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/09/CuandoProteger-scaled.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/09/CUANDOPROTEGER.mp3"
+image: "/media/2020/09/CuandoProteger-scaled.jpg"
+audio: "/media/2020/09/CUANDOPROTEGER.mp3"
 description: "Si como padres no permitimos que nuestros hijos se enfrenten a la frustración de que no es posible tenerlo todo, o que para tener cosas hay que pagar el precio primero, si no se enfrentan a la realidad..."
 ---
 

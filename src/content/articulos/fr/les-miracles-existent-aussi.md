@@ -3,8 +3,8 @@ title: "Les miracles existent aussi"
 date: 2020-10-04
 key: "los-milagros-tambien-existen-miracles-also-exist"
 categories: ["PADRES","SALUD MENTAL","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/10/LosMilagros.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/10/LOS-MILAGROS.mp3"
+image: "/media/2020/10/LosMilagros.jpg"
+audio: "/media/2020/10/LOS-MILAGROS.mp3"
 description: "Comment un adolescent atteint du syndrome d'Asperger et ayant des problèmes avec les jeux vidéo a changé sa vie."
 review: true
 ---

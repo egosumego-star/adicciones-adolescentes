@@ -5,7 +5,7 @@ key: "ya-vuelta-los-adolescentes-las-adicciones"
 categories: []
 ---
 
-Durante mucho tiempo he tenido el firme propósito de cambiar la página, hacerla mucho más sencilla y participativa.![¡Que Miedo!](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/03/baby-with-laptop-300x199.jpg)
+Durante mucho tiempo he tenido el firme propósito de cambiar la página, hacerla mucho más sencilla y participativa.![¡Que Miedo!](/media/2016/03/baby-with-laptop-300x199.jpg)
 
 Mis miedos hacen que me cuestionara este proyecto, repitiéndome una y otra vez: ¿Qué necesidad tengo de volver a estresarme cuando genero más que suficiente adrenalina con mi trabajo, charlas y artículos?
 

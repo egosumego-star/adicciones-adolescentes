@@ -3,7 +3,7 @@ title: "The traumas of our childhood"
 date: 2021-01-20
 key: "los-traumas-de-nuestra-ninez-the-traumas-of-our-childhood"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/01/Traumas.jpg"
+image: "/media/2021/01/Traumas.jpg"
 review: true
 ---
 

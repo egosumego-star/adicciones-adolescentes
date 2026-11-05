@@ -3,8 +3,8 @@ title: "Quand protéger ses enfants revient à les affaiblir"
 date: 2020-09-04
 key: "cuando-proteger-es-debilitar-a-los-hijos-when-protecting-your-children-means-weakening-them"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/09/CuandoProteger-scaled.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/09/CUANDOPROTEGER.mp3"
+image: "/media/2020/09/CuandoProteger-scaled.jpg"
+audio: "/media/2020/09/CUANDOPROTEGER.mp3"
 description: "Si, en tant que parents, nous ne laissons pas nos enfants affronter la frustration de ne pas pouvoir tout avoir, ou d’avoir à payer le prix avant d’obtenir les choses, s’ils ne se confrontent pas à la réalité…"
 review: true
 ---

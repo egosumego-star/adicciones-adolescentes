@@ -3,13 +3,13 @@ title: "Why does my son hate me?"
 date: 2018-12-23
 key: "por-que-mi-hijo-me-odia"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/NiñaCabreada-1.jpg"
+image: "/media/2018/12/NiñaCabreada-1.jpg"
 review: true
 ---
 
 If you want to listen to the article in the author's voice:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
+<audio src="/media/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
 
 Thanks to the work of Sara Cremades González (teacher and philologist), we can offer this article in English.
 

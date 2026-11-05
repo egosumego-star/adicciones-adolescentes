@@ -3,7 +3,7 @@ title: "Sex, sex, sex..."
 date: 2017-08-02
 key: "sexo-sexo-sexo"
 categories: ["SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2017/08/TEENAGE_COUPLE_EMBRACE_ON_THE_BANK_OF_THE_FRIO_CANYON_RIVER_NEAR_LEAKEY_TEXAS_AND_SAN_ANTONIO_-_NARA_-_554901.jpg"
+image: "/media/2017/08/TEENAGE_COUPLE_EMBRACE_ON_THE_BANK_OF_THE_FRIO_CANYON_RIVER_NEAR_LEAKEY_TEXAS_AND_SAN_ANTONIO_-_NARA_-_554901.jpg"
 review: true
 ---
 

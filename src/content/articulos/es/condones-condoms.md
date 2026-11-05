@@ -3,8 +3,8 @@ title: "CONDONES"
 date: 2021-03-27
 key: "condones-condoms"
 categories: ["Educación","PADRES","SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/03/condones.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/03/CondonesP.mp3"
+image: "/media/2021/03/condones.jpg"
+audio: "/media/2021/03/CondonesP.mp3"
 description: "La sexualidad es parte de la biología, ignorarla es abandonar a nuestros hijos en manos de nuestros mas terribles miedos."
 ---
 

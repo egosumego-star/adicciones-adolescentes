@@ -3,7 +3,7 @@ title: "Whose patient is it?"
 date: 2020-03-18
 key: "de-quien-es-el-paciente"
 categories: ["Educación","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/03/De-quien-es.jpg"
+image: "/media/2020/03/De-quien-es.jpg"
 review: true
 ---
 

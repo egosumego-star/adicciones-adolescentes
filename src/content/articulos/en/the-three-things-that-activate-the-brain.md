@@ -3,7 +3,7 @@ title: "The three things that activate the brain"
 date: 2019-12-14
 key: "las-tres-cosas-que-activan-el-cerebro"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/12/TresC.png.png"
+image: "/media/2019/12/TresC.png.png"
 review: true
 ---
 

@@ -3,11 +3,11 @@ title: "Angry, defiant and glued to their phones"
 date: 2018-05-22
 key: "cabreados-desafiantes-y-pegados-al-movil"
 categories: ["Tecnología","Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CABREADOS.m4a"
+audio: "/media/2018/05/CABREADOS.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CabreadosEnganchados.jpg)
+![](/media/2018/05/CabreadosEnganchados.jpg)
 
 If you would like to listen to the article in the author's voice:
 

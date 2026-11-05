@@ -3,7 +3,7 @@ title: "Gifted children: you ask a child and an adult answers"
 date: 2023-01-31
 key: "altas-capacidades-cuando-le-preguntas-a-un-nino-y-te-responde-un-adulto"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/01/AltasCapacidades.jpg"
+image: "/media/2023/01/AltasCapacidades.jpg"
 review: true
 ---
 

@@ -3,8 +3,8 @@ title: "Rêves brûlants – la pornographie"
 date: 2017-10-13
 key: "suenos-calientes-pornografia"
 categories: ["SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2017/07/Fiesta1.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2017/10/Sueños-Calientes.m4a"
+image: "/media/2017/07/Fiesta1.jpg"
+audio: "/media/2017/10/Sueños-Calientes.m4a"
 review: true
 ---
 

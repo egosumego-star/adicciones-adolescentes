@@ -3,10 +3,10 @@ title: "LA HIPOCRESÍA DEL ALCOHOL"
 date: 2018-04-13
 key: "la-hipocresia-del-alcohol"
 categories: ["Alcohol","PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
+audio: "/media/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/Adolescentes-alcohol.jpg "Menores bebiendo") Menores bebiendo...
+![](/media/2018/04/Adolescentes-alcohol.jpg "Menores bebiendo") Menores bebiendo...
 
 Si quieres escuchar el artículo con la voz del autor:
 

@@ -3,8 +3,8 @@ title: "¿Y si la IA sabe más de tu hijo que tú?"
 date: 2025-08-08
 key: "ia-y-tu-hijo"
 categories: ["Educación","IA Inteligencia Artificial","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/08/Hijo-IA.png"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/08/Hijo-IA.mp3"
+image: "/media/2025/08/Hijo-IA.png"
+audio: "/media/2025/08/Hijo-IA.mp3"
 ---
 
 **¡¡Nuevo!!**  Podcast entre dos "periodistas" comentando el artículo.

@@ -3,8 +3,8 @@ title: "HERMANOS: TIBURONES EN UNA PECERA"
 date: 2020-07-11
 key: "hermanos-tiburones-en-una-pecera-siblings-sharks-in-a-fishbowl"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/07/Hermanos.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/07/HERMANOS.mp3"
+image: "/media/2020/07/Hermanos.jpg"
+audio: "/media/2020/07/HERMANOS.mp3"
 ---
 
 Si quieres escuchar este artículo en la voz del autor:

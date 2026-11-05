@@ -3,8 +3,8 @@ title: "Les addictions se guérissent-elles ?"
 date: 2022-03-17
 key: "las-adicciones-se-curan-can-addictions-be-cured"
 categories: ["Educación","SALUD MENTAL","Tabaco"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/03/Mujer-Fumando.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/03/¿LAS-ADICCIONES-SE-CURAN.mp3"
+image: "/media/2022/03/Mujer-Fumando.jpg"
+audio: "/media/2022/03/¿LAS-ADICCIONES-SE-CURAN.mp3"
 description: "C'est l'histoire d'un addict, mon histoire."
 review: true
 ---

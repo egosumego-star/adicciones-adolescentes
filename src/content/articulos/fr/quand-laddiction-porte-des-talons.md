@@ -3,7 +3,7 @@ title: "Quand l’addiction porte des talons"
 date: 2026-03-05
 key: "adiccion-con-tacones"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
+image: "/media/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
 ---
 
 Je l’ai rencontrée quand elle avait 13 ans.

@@ -3,8 +3,8 @@ title: "Le chantage de nos enfants"
 date: 2021-02-23
 key: "el-chantaje-de-nuestros-hijos-the-blackmail-of-our-children"
 categories: ["PADRES","SALUD MENTAL"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/02/CHANTAJE.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/02/CHANTAJE.mp3"
+image: "/media/2021/02/CHANTAJE.jpg"
+audio: "/media/2021/02/CHANTAJE.mp3"
 description: "La peur est une forme de protection, mais entre les mains de nos enfants elle peut devenir une arme de torture."
 review: true
 ---

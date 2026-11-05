@@ -3,12 +3,12 @@ title: "¿A QUE EDAD LE COMPRO EL MÓVIL?"
 date: 2019-07-05
 key: "a-que-edad-le-compro-el-movil"
 categories: ["PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2017/10/NiñoMOvilValle.jpg"
+image: "/media/2017/10/NiñoMOvilValle.jpg"
 ---
 
 Si quieres escuchar el articulo con la voz del autor:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/07/A-QUE-EDAD-LE-COMPRO-EL-MÓVIL.m4a.m4a" controls="controls"></audio>
+<audio src="/media/2019/07/A-QUE-EDAD-LE-COMPRO-EL-MÓVIL.m4a.m4a" controls="controls"></audio>
 
       Ésta es la pregunta que nunca falta en las charlas a padres o profesionales.  
       Es como si el único y arriesgado contacto con la tecnología fuera cuando le vamos a comprar el móvil. No recordamos que prácticamente desde que nace está expuesto, por ejemplo, cuando “aparcamos” a un menor de 3 años delante del móvil, tablet o la televisión para que nos deje tranquilos durante un rato.  

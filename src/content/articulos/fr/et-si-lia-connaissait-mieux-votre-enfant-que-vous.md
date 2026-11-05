@@ -3,7 +3,7 @@ title: "Et si l’IA connaissait mieux votre enfant que vous ?"
 date: 2025-08-08
 key: "ia-y-tu-hijo"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/08/Hijo-IA.png"
+image: "/media/2025/08/Hijo-IA.png"
 ---
 
 Quand les enfants entrent dans l’adolescence, quelque chose change.  

@@ -3,8 +3,8 @@ title: "HISTORIA DE UN ADOLESCENTE"
 date: 2024-02-02
 key: "historia-de-un-adolescente-story-of-a-teenager"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/02/Borracho.jpeg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/02/HISTORIA-copia.wav"
+image: "/media/2024/02/Borracho.jpeg"
+audio: "/media/2024/02/HISTORIA-copia.wav"
 ---
 
 Mari Cruz Pérez Icardo, veterinaria de profesión y escritora de vocación, ha creado el breve relato sonoro que acompaña a este artículo.

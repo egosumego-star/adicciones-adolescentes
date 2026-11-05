@@ -7,7 +7,7 @@ categories: ["PADRES"]
 
 Con la llegada del verano y la finalización de los cursos escolares, comienzan las fiestas de nuestros jóvenes.  
 Cuando uno es madre o padre sabe que antes o después nuestra hija nos comentará que tiene su primera fiesta.  
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/07/fiesta.png)Independientemente del retortijón intestinal que nos producen esas palabras, nos gustaría decirle a nuestra niña que todavía es muy joven y que tiene toda la vida por delante para salir, que partir de los 30 años es una buena edad para pensar en esas cosas, pero no antes.  
+![](/media/2017/07/fiesta.png)Independientemente del retortijón intestinal que nos producen esas palabras, nos gustaría decirle a nuestra niña que todavía es muy joven y que tiene toda la vida por delante para salir, que partir de los 30 años es una buena edad para pensar en esas cosas, pero no antes.  
 Bueno ya ha llegado el día, nuestra hija sale "vestida" con una ropa que yo llamaría de forma políticamente correcta como minimalista.  
 También es verdad que como padre "moderno" no es que piense que el burka es la única indumentaria apropiada para esos eventos, pero sí algo parecido a un mono de trabajo militar con casco y gafas oscuras.  
 Después de una mirada a su madre y como respuesta unas palabras que nunca queremos entender: "es lo que llevan ahora las chicas de su edad", es entonces antes de despedirla cuando le damos los últimos consejos lapidarios:  

@@ -3,7 +3,7 @@ title: "What are we raising: entrepreneurs, geniuses or fools?"
 date: 2021-10-22
 key: "que-estamos-criando-emprendedores-genios-o-melones-what-are-we-breeding-entrepreneurs-geniuses-or-melons"
 categories: ["Educación","PADRES","SALUD MENTAL"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/10/NinosEstudiando.jpg"
+image: "/media/2021/10/NinosEstudiando.jpg"
 review: true
 ---
 

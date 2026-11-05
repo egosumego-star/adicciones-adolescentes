@@ -3,10 +3,10 @@ title: "LAS DROGAS Y LA ESCUELA"
 date: 2018-11-17
 key: "las-drogas-y-la-escuela"
 categories: ["Educación","Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/11/LAS-DROGAS-Y-LA-ESCUELA.m4a"
+audio: "/media/2018/11/LAS-DROGAS-Y-LA-ESCUELA.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/11/DrogasEscuela-1024x683.jpg)Si quieres escuchar el artículo con la voz del autor:
+![](/media/2018/11/DrogasEscuela-1024x683.jpg)Si quieres escuchar el artículo con la voz del autor:
 
 Creo que es necesario desterrar el mito de que la escuela privada o la concertada están libres de drogas; como dice el refranero popular: “en todos los sitios cuecen habas”.  
 Lo que si puede reducir de una manera mas que considerable  su presencia son:  

@@ -3,8 +3,8 @@ title: "Quand devenons-nous adultes ?"
 date: 2020-02-06
 key: "cuando-nos-convertimos-en-adultos"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/02/CuandoAdultos.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/02/CUANDO-NOS-CONVERTIMOS-EN-ADULTOS.m4a"
+image: "/media/2020/02/CuandoAdultos.jpg"
+audio: "/media/2020/02/CUANDO-NOS-CONVERTIMOS-EN-ADULTOS.m4a"
 review: true
 ---
 

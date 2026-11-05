@@ -3,7 +3,7 @@ title: "What if our children were in charge?"
 date: 2021-12-20
 key: "y-si-mandaran-nuestros-hijos-what-if-our-children-were-in-charge"
 categories: ["Alcohol","Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/12/Y-SI-MANDARAN.jpg"
+image: "/media/2021/12/Y-SI-MANDARAN.jpg"
 review: true
 ---
 

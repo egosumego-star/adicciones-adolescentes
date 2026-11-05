@@ -3,8 +3,8 @@ title: "Les royaumes de taïfas"
 date: 2022-01-31
 key: "los-reinos-de-taifas-the-kingdoms"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/01/people-g26cfaeb41_1920.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/01/LOS-REINOS.mp3"
+image: "/media/2022/01/people-g26cfaeb41_1920.jpg"
+audio: "/media/2022/01/LOS-REINOS.mp3"
 description: "Si ceux qui doivent veiller sur les plus vulnérables ne le font pas, à quoi servent les systèmes de protection et d'aide ?"
 review: true
 ---

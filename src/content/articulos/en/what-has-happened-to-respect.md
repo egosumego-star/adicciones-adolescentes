@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/05/Ancianos-948x1024.jpg)
+![](/media/2017/05/Ancianos-948x1024.jpg)
 
 Since time immemorial, respect has gone hand in hand with knowledge. The most respected people have been the elderly, because they treasured the experiences of previous generations.  
 With the arrival of the information age, the concept of respect has lost much of its value. Anyone can access knowledge on any subject through the Internet, with opinions for and against.  

@@ -3,11 +3,11 @@ title: "The hypocrisy of alcohol"
 date: 2018-04-13
 key: "la-hipocresia-del-alcohol"
 categories: ["Alcohol","PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
+audio: "/media/2018/04/LA-HIPOCRESÍA-DEL-ALCOHOL.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/04/Adolescentes-alcohol.jpg "Minors drinking") Minors drinking...
+![](/media/2018/04/Adolescentes-alcohol.jpg "Minors drinking") Minors drinking...
 
 If you would like to listen to the article in the author’s voice (in Spanish):
 

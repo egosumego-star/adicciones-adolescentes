@@ -3,7 +3,7 @@ title: "When do we become adults?"
 date: 2020-02-06
 key: "cuando-nos-convertimos-en-adultos"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/02/CuandoAdultos.jpg"
+image: "/media/2020/02/CuandoAdultos.jpg"
 review: true
 ---
 

@@ -3,8 +3,8 @@ title: "El grito mudo de un adolescente pidiendo ayuda"
 date: 2024-06-08
 key: "el-grito-mudo-de-un-adolescente-pidiendo-ayuda-the-silent-cry-of-an-adolescent-asking-for-help"
 categories: ["Educación","PADRES","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/06/GRITOMudo.png"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/06/EL-SILENCIO-DE-SOFIA.mp3"
+image: "/media/2024/06/GRITOMudo.png"
+audio: "/media/2024/06/EL-SILENCIO-DE-SOFIA.mp3"
 ---
 
 Mari Cruz Pérez Icardo, veterinaria de profesión y escritora de vocación, ha creado el breve relato sonoro que acompaña a este artículo.

@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-Depuis longtemps, j’ai la ferme intention de changer le site, de le rendre beaucoup plus simple et participatif.![Quelle peur !](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/03/baby-with-laptop-300x199.jpg)
+Depuis longtemps, j’ai la ferme intention de changer le site, de le rendre beaucoup plus simple et participatif.![Quelle peur !](/media/2016/03/baby-with-laptop-300x199.jpg)
 
 Mes peurs m’ont fait remettre ce projet en question, en me répétant sans cesse : quel besoin ai-je de me stresser à nouveau, alors que je produis déjà bien assez d’adrénaline avec mon travail, mes conférences et mes articles ?
 

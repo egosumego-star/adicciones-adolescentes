@@ -3,10 +3,10 @@ title: "TENGO UN HIJO “LISTO”: NI TRABAJA NI ESTUDIA"
 date: 2018-02-17
 key: "hijo-listo-trabaja-estudia"
 categories: ["Educación"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/TENGO-UN-HIJO-LISTO.m4a"
+audio: "/media/2018/02/TENGO-UN-HIJO-LISTO.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/NINIs.jpg) NI Trabaja NI Estudia.
+![](/media/2018/02/NINIs.jpg) NI Trabaja NI Estudia.
 
 Si quieres escuchar el artículo con la voz del autor:
 

@@ -3,8 +3,8 @@ title: "LOS TRAUMAS DE NUESTRA NIÑEZ"
 date: 2021-01-20
 key: "los-traumas-de-nuestra-ninez-the-traumas-of-our-childhood"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/01/Traumas.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/01/LOS-TRAUMAS.mp3"
+image: "/media/2021/01/Traumas.jpg"
+audio: "/media/2021/01/LOS-TRAUMAS.mp3"
 description: "Tan importante es ayudarle a salir de su adicción, como averiguar que la produjo."
 ---
 

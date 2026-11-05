@@ -3,8 +3,8 @@ title: "¿DE QUIEN ES EL PACIENTE?"
 date: 2020-03-18
 key: "de-quien-es-el-paciente"
 categories: ["Educación","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/03/De-quien-es.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/03/¿DE-QUIEN-ES-EL-PACIENTE.mp3"
+image: "/media/2020/03/De-quien-es.jpg"
+audio: "/media/2020/03/¿DE-QUIEN-ES-EL-PACIENTE.mp3"
 ---
 
 Si quieres escuchar el artículo con la voz del autor:

@@ -3,8 +3,8 @@ title: "Les trois choses qui activent le cerveau"
 date: 2019-12-14
 key: "las-tres-cosas-que-activan-el-cerebro"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/12/TresC.png.png"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2019/12/LAS-TRES-COSAS.m4a"
+image: "/media/2019/12/TresC.png.png"
+audio: "/media/2019/12/LAS-TRES-COSAS.m4a"
 review: true
 ---
 

@@ -3,11 +3,11 @@ title: "J’ai un fils « malin » : il ne travaille pas et n’étudie pas"
 date: 2018-02-17
 key: "hijo-listo-trabaja-estudia"
 categories: ["Educación"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/TENGO-UN-HIJO-LISTO.m4a"
+audio: "/media/2018/02/TENGO-UN-HIJO-LISTO.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/NINIs.jpg) Ni travail ni études.
+![](/media/2018/02/NINIs.jpg) Ni travail ni études.
 
 Si vous souhaitez écouter l’article avec la voix de l’auteur (en espagnol) :
 

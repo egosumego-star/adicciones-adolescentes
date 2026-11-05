@@ -5,7 +5,7 @@ key: "7-cosas-importantes-que-aprenden-los-alumnos"
 categories: ["Educación","Tratamiento"]
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/03/Alumnos.jpg)
+![](/media/2019/03/Alumnos.jpg)
 
 Si deseas escuchar el artículo en la voz de autor:
 

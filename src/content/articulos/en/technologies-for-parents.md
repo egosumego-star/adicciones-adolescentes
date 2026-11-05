@@ -9,7 +9,7 @@ review: true
 For some years now, we parents have been living with a complex about the arrival of New Technologies (NT). We see how quickly our children master them, while we look on in amazement at their skills.  
 At the same time, news keeps appearing about crimes committed using these technologies, which worries us even more when we think that our children could fall victim to some unscrupulous person.  
 As we don't know what to do, all we can do is observe and watch out for any unusual behaviour in our offspring.  
-And as if that weren't enough, we need to bear in mind that with the arrival of adolescence everything is new to them: their body, their way of thinking, their friends. Naturally, they are going to behave in a completely different way from how they have behaved until now, which is why we parents end up more than a little disoriented.![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/08/IMG-20170810-WA0012-1024x648.jpg)  
+And as if that weren't enough, we need to bear in mind that with the arrival of adolescence everything is new to them: their body, their way of thinking, their friends. Naturally, they are going to behave in a completely different way from how they have behaved until now, which is why we parents end up more than a little disoriented.![](/media/2017/08/IMG-20170810-WA0012-1024x648.jpg)  
 Is this a new problem? Or is it really "the same old problem" with a new name?  
 For example: when they bought us our first ball, bike, motorbike, etc., **they never handed it over without giving us some Rules for using it**:  
 - If you kick the ball in the middle, it will go straight.  

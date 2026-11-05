@@ -3,8 +3,8 @@ title: "Préservatifs"
 date: 2021-03-27
 key: "condones-condoms"
 categories: ["Educación","PADRES","SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/03/condones.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/03/CondonesP.mp3"
+image: "/media/2021/03/condones.jpg"
+audio: "/media/2021/03/CondonesP.mp3"
 description: "La sexualité fait partie de la biologie ; l’ignorer, c’est abandonner nos enfants aux mains de nos peurs les plus terribles."
 review: true
 ---

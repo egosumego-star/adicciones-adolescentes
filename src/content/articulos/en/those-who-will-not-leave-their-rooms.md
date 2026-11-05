@@ -3,7 +3,7 @@ title: "Those who will not leave their rooms"
 date: 2021-08-25
 key: "problemas-para-dejar-las-tecnologias"
 categories: ["Educación","PADRES","SALUD MENTAL","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/08/adolescente-cuarto.jpg"
+image: "/media/2021/08/adolescente-cuarto.jpg"
 review: true
 ---
 

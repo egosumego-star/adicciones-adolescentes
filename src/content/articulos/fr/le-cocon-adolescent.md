@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/09/mariposa-1024x683.jpg)
+![](/media/2017/09/mariposa-1024x683.jpg)
 
 Quand j'ai commencé à travailler avec les parents d'adolescents, j'avais beaucoup de mal à leur expliquer ce qui se passait physiquement et émotionnellement chez leurs enfants sans tomber dans un langage truffé de termes techniques et de jargon qui, loin de me faire comprendre, montrait ma maladresse à me connecter avec eux, alors qu'ils traversaient une période si difficile.  
 J'ai alors décidé d'utiliser un exemple tiré de la nature pour faciliter la compréhension, plus précisément la transformation du ver à soie :

@@ -3,8 +3,8 @@ title: "LOS SUSTOS DE LA ADOLESCENCIA"
 date: 2023-04-26
 key: "los-sustos-de-la-adolescencia"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/04/losSUSTOS1.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/04/LosSUSTOS.mp3"
+image: "/media/2023/04/losSUSTOS1.jpg"
+audio: "/media/2023/04/LosSUSTOS.mp3"
 ---
 
 **Novedad**. - Mari Cruz Pérez Ycardo, veterinaria de profesión y escritora de vocación, ha creado el breve relato sonoro que acompaña a este artículo.

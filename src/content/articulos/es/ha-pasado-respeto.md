@@ -5,7 +5,7 @@ key: "ha-pasado-respeto"
 categories: []
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/05/Ancianos-948x1024.jpg)
+![](/media/2017/05/Ancianos-948x1024.jpg)
 
 Desde tiempos inmemoriales el respeto ha ido unido al conocimiento. Las personas más respetadas han sido los ancianos, pues ellos atesoraban las vivencias de generaciones anteriores.  
 Con la llegada de la era de la información el concepto de respeto ha perdido gran parte de su valor. Cualquier persona a través de Internet puede tener acceso a los conocimientos sobre cualquier tema con opiniones a favor y en contra.  

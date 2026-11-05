@@ -3,10 +3,10 @@ title: "CABREADOS, DESAFIANTES Y PEGADOS AL MOVIL"
 date: 2018-05-22
 key: "cabreados-desafiantes-y-pegados-al-movil"
 categories: ["Tecnología","Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CABREADOS.m4a"
+audio: "/media/2018/05/CABREADOS.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CabreadosEnganchados.jpg)
+![](/media/2018/05/CabreadosEnganchados.jpg)
 
 Si quieres escuchar el artículo con la voz del autor:
 

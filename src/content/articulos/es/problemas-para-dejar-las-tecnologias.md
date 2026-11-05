@@ -3,8 +3,8 @@ title: "LOS QUE NO SALDRAN DE SUS HABITACIONES"
 date: 2021-08-25
 key: "problemas-para-dejar-las-tecnologias"
 categories: ["Educación","PADRES","SALUD MENTAL","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/08/adolescente-cuarto.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/08/LOS-QUE-NO-SALDRAN.mp3"
+image: "/media/2021/08/adolescente-cuarto.jpg"
+audio: "/media/2021/08/LOS-QUE-NO-SALDRAN.mp3"
 description: "De vuelta de vacaciones comenzarán los problemas para dejar las tecnologías, ir a clase y volver a relacionarse con la familia y los amigas/os."
 ---
 

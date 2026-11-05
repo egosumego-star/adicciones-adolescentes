@@ -3,7 +3,7 @@ title: "The taifa kingdoms"
 date: 2022-01-31
 key: "los-reinos-de-taifas-the-kingdoms"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/01/people-g26cfaeb41_1920.jpg"
+image: "/media/2022/01/people-g26cfaeb41_1920.jpg"
 review: true
 ---
 

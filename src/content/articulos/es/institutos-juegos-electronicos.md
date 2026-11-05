@@ -7,13 +7,13 @@ categories: ["Educación","Tecnología"]
 
 ## **¿ENEMIGOS O ALIADOS?**
 
-[![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/IESPORTS.jpg)](https://play.iesports.es)
+[![](/media/2019/01/IESPORTS.jpg)](https://play.iesports.es)
 
 IESPORTS
 
 Si quieres escuchar el articulo en la voz de su autor:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
+<audio src="/media/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
 
 Hace varios años que comenzamos a trabajar en la UCA ELDA con personas que tenían un problema con las tecnologías.
 

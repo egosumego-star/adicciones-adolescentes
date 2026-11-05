@@ -3,8 +3,8 @@ title: "Ceux qui ne sortiront pas de leur chambre"
 date: 2021-08-25
 key: "problemas-para-dejar-las-tecnologias"
 categories: ["Educación","PADRES","SALUD MENTAL","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/08/adolescente-cuarto.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/08/LOS-QUE-NO-SALDRAN.mp3"
+image: "/media/2021/08/adolescente-cuarto.jpg"
+audio: "/media/2021/08/LOS-QUE-NO-SALDRAN.mp3"
 description: "Au retour des vacances commenceront les difficultés pour lâcher les écrans, retourner en cours et renouer avec la famille et les amis."
 review: true
 ---

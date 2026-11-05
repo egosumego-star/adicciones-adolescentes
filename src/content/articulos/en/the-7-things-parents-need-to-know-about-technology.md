@@ -3,8 +3,8 @@ title: "The 7 things parents need to know about technology"
 date: 2022-10-18
 key: "las-7-cosas-que-necesitan-saber-los-padres-sobre-las-tecnologias"
 categories: ["Educación","PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/10/LAS-7-COSAS.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/10/LAS-7-COSAS1.mp3"
+image: "/media/2022/10/LAS-7-COSAS.jpg"
+audio: "/media/2022/10/LAS-7-COSAS1.mp3"
 description: "We buy our children mobile phones and video game consoles expecting them to use them well, but we are unaware of the addictive and destructive potential of these devices."
 review: true
 ---

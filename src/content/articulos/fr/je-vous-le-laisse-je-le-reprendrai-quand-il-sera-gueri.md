@@ -6,11 +6,11 @@ categories: ["Educación","PADRES","Tratamiento"]
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/couch-2615796_960_720.jpg)
+![](/media/2019/02/couch-2615796_960_720.jpg)
 
 Si vous souhaitez écouter l’article lu par l’auteur :
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
+<audio src="/media/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
 
 Il y a quelque temps, nous travaillions avec une famille et leur fils de 14 ans. Nous en étions aux premières séances quand, un jour, le père est arrivé très en colère, traînant son fils par la main. Soudain, sans un mot, il est entré dans le seul bureau dont la porte était ouverte à ce moment-là et s’est exclamé, à bout : « Je vous le laisse ! Je le reprendrai quand il sera guéri ! »
 

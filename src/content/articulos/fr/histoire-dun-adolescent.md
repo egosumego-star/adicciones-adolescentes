@@ -3,8 +3,8 @@ title: "Histoire d’un adolescent"
 date: 2024-02-02
 key: "historia-de-un-adolescente-story-of-a-teenager"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/02/Borracho.jpeg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2024/02/HISTORIA-copia.wav"
+image: "/media/2024/02/Borracho.jpeg"
+audio: "/media/2024/02/HISTORIA-copia.wav"
 review: true
 ---
 

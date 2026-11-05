@@ -3,8 +3,8 @@ title: "MI HIJO ES DIFERENTE"
 date: 2022-07-08
 key: "mi-hijo-es-diferente-my-son-is-different"
 categories: ["PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/07/MiHijo-es-Diferente-scaled.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
+image: "/media/2022/07/MiHijo-es-Diferente-scaled.jpg"
+audio: "/media/2022/07/MI-HIJO-ES-DIFERENTE.mp3"
 description: "En un encuentro fortuito con una madre, recordamos los principales momentos del tratamiento con su hijo. Su perseverancia tuvo los mejores resultados."
 ---
 

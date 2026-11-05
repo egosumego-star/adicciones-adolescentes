@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-For a long time I have been firmly intending to change the website, to make it much simpler and more participatory.![How scary!](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/03/baby-with-laptop-300x199.jpg)
+For a long time I have been firmly intending to change the website, to make it much simpler and more participatory.![How scary!](/media/2016/03/baby-with-laptop-300x199.jpg)
 
 My fears made me question this project, telling myself over and over again: why do I need to stress myself out again, when I already generate more than enough adrenaline with my work, talks and articles?
 

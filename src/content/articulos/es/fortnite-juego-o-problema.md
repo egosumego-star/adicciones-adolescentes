@@ -3,16 +3,16 @@ title: "¿FORTNITE, JUEGO O PROBLEMA?"
 date: 2019-06-04
 key: "fortnite-juego-o-problema"
 categories: ["PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/Fortnite.jpg"
+image: "/media/2019/06/Fortnite.jpg"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/Fortnite-1024x512.jpg)
+![](/media/2019/06/Fortnite-1024x512.jpg)
 
 Fortnite, el juego.
 
 Si quieres escuchar el artículo leído por el autor:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/FORTNITE-JUEGO-O-PROBLEMA.m4a" controls="controls"></audio>
+<audio src="/media/2019/06/FORTNITE-JUEGO-O-PROBLEMA.m4a" controls="controls"></audio>
 
 El Fortnite es un juego en el que están registradas 250 millones de personas.  
 Funciona en cualquier vídeo-consola actual (Play, Wii, Xbox) y en cualquier móvil de última generación.  

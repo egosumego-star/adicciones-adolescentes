@@ -3,11 +3,11 @@ title: "Cuando la adicción lleva tacones"
 date: 2026-03-02
 key: "adiccion-con-tacones"
 categories: ["Alcohol","Educación","PADRES","SALUD MENTAL"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
+image: "/media/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
 description: "Las enfermedades adictivas afectan a muchísimas mujeres \"invisibles\", y cada una de sus etapas vitales se afronta de manera diferente."
 ---
 
-[**Ver VIDEO.**](https://www.adiccionesadolescentes.com/wp-content/uploads/2026/03/Adiccion_con_Tacones-2.mp4)
+[**Ver VIDEO.**](/media/2026/03/Adiccion_con_Tacones-2.mp4)
 
 La conocí cuando tenía 13 años.
 

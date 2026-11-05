@@ -3,17 +3,17 @@ title: "Fortnite: game or problem?"
 date: 2019-06-04
 key: "fortnite-juego-o-problema"
 categories: ["PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/Fortnite.jpg"
+image: "/media/2019/06/Fortnite.jpg"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/Fortnite-1024x512.jpg)
+![](/media/2019/06/Fortnite-1024x512.jpg)
 
 Fortnite, the game.
 
 If you would like to listen to the article read by the author (in Spanish):
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/06/FORTNITE-JUEGO-O-PROBLEMA.m4a" controls="controls"></audio>
+<audio src="/media/2019/06/FORTNITE-JUEGO-O-PROBLEMA.m4a" controls="controls"></audio>
 
 *Translated by Sara Cremades González (teacher and philologist).*
 

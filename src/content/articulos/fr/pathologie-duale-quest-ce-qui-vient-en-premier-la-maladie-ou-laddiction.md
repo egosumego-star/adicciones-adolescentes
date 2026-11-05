@@ -3,7 +3,7 @@ title: "Pathologie duale : qu’est-ce qui vient en premier, la maladie ou l’a
 date: 2025-03-17
 key: "enfermedad-o-adiccion"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/03/QUE-ES-PRIMERO.png"
+image: "/media/2025/03/QUE-ES-PRIMERO.png"
 ---
 
 Aujourd'hui, nous abordons une question qui préoccupe profondément de nombreuses familles : qu'est-ce qui vient en premier, l'addiction ou la maladie mentale ? Ce dilemme, semblable à celui de l'œuf et de la poule, nous amène à réfléchir sur la relation entre ces deux conditions et leur impact sur nos enfants adolescents

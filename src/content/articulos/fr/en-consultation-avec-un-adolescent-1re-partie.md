@@ -3,8 +3,8 @@ title: "En consultation avec un adolescent (1re partie)"
 date: 2020-04-16
 key: "en-la-consulta-con-un-adolescente-1a-parte"
 categories: ["Educación","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/04/EnLaConsulta.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/04/EN-LA-CONSULTA-CON-UN-ADOLESCENTE-1ª-Parte.mp3"
+image: "/media/2020/04/EnLaConsulta.jpg"
+audio: "/media/2020/04/EN-LA-CONSULTA-CON-UN-ADOLESCENTE-1ª-Parte.mp3"
 review: true
 ---
 

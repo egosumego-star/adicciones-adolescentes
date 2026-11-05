@@ -3,8 +3,8 @@ title: "The herd effect"
 date: 2019-10-25
 key: "efecto-manada"
 categories: ["PADRES","SEXO"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2019/10/Manifestacion.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2019/10/EFECTO-MANADA.m4a"
+image: "/media/2019/10/Manifestacion.jpg"
+audio: "/media/2019/10/EFECTO-MANADA.m4a"
 review: true
 ---
 

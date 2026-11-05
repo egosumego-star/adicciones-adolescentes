@@ -64,7 +64,7 @@ main { display: flex; flex-direction: column; gap: 56px; padding-block: 24px 64p
 .article header { display: flex; flex-direction: column; gap: 12px; }
 .article h1 { font-size: clamp(30px, 4.4vw, 46px); }
 .read-in { font-size: 15px; color: var(--muted); display: flex; gap: 12px; flex-wrap: wrap; }
-.cover { border-radius: 12px; width: 100%; }
+.cover { border-radius: 12px; width: 100%; max-height: 480px; object-fit: cover; }
 .player { display: flex; flex-direction: column; gap: 8px; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); font: 500 14px var(--display); color: var(--muted); }
 .player audio, .prose audio { width: 100%; }
 .prose { display: flex; flex-direction: column; gap: 1.1em; }

@@ -3,8 +3,8 @@ title: "L’époque qu’il nous a été donné de vivre"
 date: 2021-07-10
 key: "la-epoca-que-nos-ha-tocado-vivir-the-times-we-live-in"
 categories: ["Educación","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/07/Epoca.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/07/LA-EPOCA.mp3"
+image: "/media/2021/07/Epoca.jpg"
+audio: "/media/2021/07/LA-EPOCA.mp3"
 review: true
 ---
 

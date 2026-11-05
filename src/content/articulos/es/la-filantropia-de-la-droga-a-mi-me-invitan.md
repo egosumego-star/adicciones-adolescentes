@@ -3,10 +3,10 @@ title: "LA FILANTROPIA DE LA DROGA: ¡A MI ME INVITAN!"
 date: 2019-09-13
 key: "la-filantropia-de-la-droga-a-mi-me-invitan"
 categories: ["Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2019/09/LA-FILANTROPÍA-DE-LA-DROGA.m4a"
+audio: "/media/2019/09/LA-FILANTROPÍA-DE-LA-DROGA.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/09/Droga-1024x576.jpg)
+![](/media/2019/09/Droga-1024x576.jpg)
 
 Si quieres escuchar el articulo con la voz del autor:
 

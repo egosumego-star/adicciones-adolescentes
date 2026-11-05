@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/05/Ancianos-948x1024.jpg)
+![](/media/2017/05/Ancianos-948x1024.jpg)
 
 Depuis des temps immémoriaux, le respect est allé de pair avec la connaissance. Les personnes les plus respectées ont été les anciens, car ils détenaient les expériences vécues des générations précédentes.  
 Avec l’arrivée de l’ère de l’information, la notion de respect a perdu une grande partie de sa valeur. N’importe qui peut, grâce à Internet, accéder aux connaissances sur n’importe quel sujet, avec des avis pour et contre.  

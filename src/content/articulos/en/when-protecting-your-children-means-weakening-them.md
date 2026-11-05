@@ -3,7 +3,7 @@ title: "When protecting your children means weakening them"
 date: 2020-09-04
 key: "cuando-proteger-es-debilitar-a-los-hijos-when-protecting-your-children-means-weakening-them"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/09/CuandoProteger-scaled.jpg"
+image: "/media/2020/09/CuandoProteger-scaled.jpg"
 review: true
 ---
 

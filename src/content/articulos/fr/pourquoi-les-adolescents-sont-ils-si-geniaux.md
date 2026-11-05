@@ -3,11 +3,11 @@ title: "Pourquoi les adolescents sont-ils si géniaux ?"
 date: 2017-11-11
 key: "tan-geniales-los-adolescentes"
 categories: []
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
+audio: "/media/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Childi.jpg)Si vous voulez écouter l’article lu par l’auteur :
+![](/media/2017/11/Childi.jpg)Si vous voulez écouter l’article lu par l’auteur :
 
 Depuis l’Antiquité, on a toujours dit pis que pendre des adolescents :  
 Il y a environ 2 500 ans, Socrate disait : « Les jeunes d’aujourd’hui sont des tyrans. Ils contredisent leurs parents, dévorent leur nourriture et manquent de respect à leurs maîtres. »  

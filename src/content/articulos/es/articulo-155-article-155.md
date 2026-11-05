@@ -3,8 +3,8 @@ title: "ARTÍCULO 155"
 date: 2021-05-31
 key: "articulo-155-article-155"
 categories: ["Delincuente","Educación","PADRES","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/05/Articulo155.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2021/05/ARTICULO155.mp3"
+image: "/media/2021/05/Articulo155.jpg"
+audio: "/media/2021/05/ARTICULO155.mp3"
 description: "LAS ADICCIONES TECNOLÓGICAS NO MATAN PERSONAS, PERO SON MAS LETALES DESTRUYENDO FAMILIAS."
 ---
 

@@ -3,11 +3,11 @@ title: "Why are teenagers so great?"
 date: 2017-11-11
 key: "tan-geniales-los-adolescentes"
 categories: []
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
+audio: "/media/2017/11/Por-Que-Son-Tan-Geniales-Los-Adolescentes.m4a.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/11/Childi.jpg)If you would like to listen to the article read by the author:
+![](/media/2017/11/Childi.jpg)If you would like to listen to the article read by the author:
 
 Since ancient times, teenagers have been torn to shreds:  
 Around 2,500 years ago, Socrates said: "The young people of today are tyrants. They contradict their parents, gobble their food and disrespect their teachers."  

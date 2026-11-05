@@ -3,11 +3,11 @@ title: "NO ME TOQUES LAS TECNOLOGIAS"
 date: 2018-09-01
 key: "no-me-toques-las-tecnologias"
 categories: ["PADRES","Tecnología"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/09/NO-ME-TOQUES-LAS-TECNOLOGÍAS.m4a"
+audio: "/media/2018/09/NO-ME-TOQUES-LAS-TECNOLOGÍAS.m4a"
 description: "Como dejar los móviles y volver a los libros."
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/09/NO-TOQUES-TECNOLOGIAS.jpg)Si quieres escuchar el artículo con la voz del autor:
+![](/media/2018/09/NO-TOQUES-TECNOLOGIAS.jpg)Si quieres escuchar el artículo con la voz del autor:
 
 Se está acabando el verano; dentro de unos días habrán terminado las vacaciones de nuestros hijos. Durante el periodo estival, apenas han tenido normas y límites en lo concerniente a las tecnologías, y han abusado hasta que se les han cerrado los ojos o se les han entumecido los pulgares.  
 Honradamente a los adultos nos ha venido de perlas, pues han estado entretenidos durante muchísimas horas, evitando el temido “me aburro…”. Además, el saber que están en su habitación, nos da mucha “tranquilidad”, sobre todo si vivimos contagiados de los miedos de los informativos.  

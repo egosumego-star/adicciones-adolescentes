@@ -3,8 +3,8 @@ title: "NO ME ENSEÑES, ¡DEMUESTRAMELO!"
 date: 2020-11-21
 key: "no-me-ensenes-demuestramelo-do-not-teach-me-show-it-to-me"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/11/NOmeEnsenes-1.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2020/11/NOMEENSENES.mp3"
+image: "/media/2020/11/NOmeEnsenes-1.jpg"
+audio: "/media/2020/11/NOMEENSENES.mp3"
 description: "Hoy ser padres es muy complicado. Queremos lo mejor para ellos pero hacemos lo contrario de lo que predicamos."
 ---
 

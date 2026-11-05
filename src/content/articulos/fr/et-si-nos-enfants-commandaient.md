@@ -3,8 +3,8 @@ title: "Et si nos enfants commandaient ?"
 date: 2021-12-20
 key: "y-si-mandaran-nuestros-hijos-what-if-our-children-were-in-charge"
 categories: ["Alcohol","Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/12/Y-SI-MANDARAN.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
+image: "/media/2021/12/Y-SI-MANDARAN.jpg"
+audio: "/media/2021/12/Y-SI-MANDARAN-NUESTROS-HIJOS.mp3"
 description: "La santé d’un enfant n’est pas négociable et les parents en sont les seuls responsables."
 review: true
 ---

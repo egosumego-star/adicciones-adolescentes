@@ -3,11 +3,11 @@ title: "En colère, provocateurs et scotchés à leur portable"
 date: 2018-05-22
 key: "cabreados-desafiantes-y-pegados-al-movil"
 categories: ["Tecnología","Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CABREADOS.m4a"
+audio: "/media/2018/05/CABREADOS.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/05/CabreadosEnganchados.jpg)
+![](/media/2018/05/CabreadosEnganchados.jpg)
 
 Si vous voulez écouter l’article lu par l’auteur :
 

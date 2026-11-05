@@ -3,11 +3,11 @@ title: "Les drogues et l'école"
 date: 2018-11-17
 key: "las-drogas-y-la-escuela"
 categories: ["Educación","Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/11/LAS-DROGAS-Y-LA-ESCUELA.m4a"
+audio: "/media/2018/11/LAS-DROGAS-Y-LA-ESCUELA.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/11/DrogasEscuela-1024x683.jpg)
+![](/media/2018/11/DrogasEscuela-1024x683.jpg)
 
 Si vous souhaitez écouter l'article avec la voix de l'auteur (en espagnol) :
 

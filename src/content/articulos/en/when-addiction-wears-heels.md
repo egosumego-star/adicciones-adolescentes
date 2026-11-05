@@ -3,7 +3,7 @@ title: "When Addiction Wears Heels"
 date: 2026-03-02
 key: "adiccion-con-tacones"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
+image: "/media/2026/03/ChatGPT-Image-23-feb-2026-15_13_43.png"
 ---
 
 I first met her when she was 13.

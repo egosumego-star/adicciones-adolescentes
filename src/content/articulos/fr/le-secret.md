@@ -8,7 +8,7 @@ review: true
 
 Avec l'arrivée de l'été et la fin de l'année scolaire, les fêtes de nos jeunes commencent.  
 Quand on est mère ou père, on sait que tôt ou tard notre fille nous annoncera qu'elle a sa première fête.  
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/07/fiesta.png)Indépendamment du nœud à l'estomac que nous provoquent ces mots, nous aimerions dire à notre petite qu'elle est encore très jeune et qu'elle a toute la vie devant elle pour sortir, qu'à partir de 30 ans c'est un bon âge pour penser à ces choses-là, mais pas avant.  
+![](/media/2017/07/fiesta.png)Indépendamment du nœud à l'estomac que nous provoquent ces mots, nous aimerions dire à notre petite qu'elle est encore très jeune et qu'elle a toute la vie devant elle pour sortir, qu'à partir de 30 ans c'est un bon âge pour penser à ces choses-là, mais pas avant.  
 Bon, le jour est arrivé : notre fille sort « habillée » d'une tenue que je qualifierais, de façon politiquement correcte, de minimaliste.  
 Il est vrai aussi qu'en père « moderne », je ne pense pas que la burqa soit la seule tenue appropriée pour ces occasions, mais plutôt quelque chose comme un treillis militaire avec casque et lunettes noires.  
 Après un regard vers sa mère et, en guise de réponse, des mots que nous ne voulons jamais comprendre – « c'est ce que portent les filles de son âge maintenant » –, c'est alors, avant de lui dire au revoir, que nous lui donnons nos derniers conseils solennels :  

@@ -8,13 +8,13 @@ review: true
 
 ## **Ennemis ou alliés ?**
 
-[![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/IESPORTS.jpg)](https://play.iesports.es)
+[![](/media/2019/01/IESPORTS.jpg)](https://play.iesports.es)
 
 IESPORTS
 
 Si vous souhaitez écouter l’article avec la voix de son auteur (en espagnol) :
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
+<audio src="/media/2019/01/ENEMIGOS-ALIADOS.m4a" controls="controls"></audio>
 
 Il y a plusieurs années, nous avons commencé à travailler à l’UCA d’Elda (Unité de conduites addictives) avec des personnes qui avaient un problème avec les technologies.
 

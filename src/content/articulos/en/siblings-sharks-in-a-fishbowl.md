@@ -3,7 +3,7 @@ title: "Siblings: sharks in a fishbowl"
 date: 2020-07-11
 key: "hermanos-tiburones-en-una-pecera-siblings-sharks-in-a-fishbowl"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/07/Hermanos.jpg"
+image: "/media/2020/07/Hermanos.jpg"
 review: true
 ---
 

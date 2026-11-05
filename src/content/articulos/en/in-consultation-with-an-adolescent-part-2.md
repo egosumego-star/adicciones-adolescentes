@@ -3,7 +3,7 @@ title: "In consultation with an adolescent (part 2)"
 date: 2020-05-27
 key: "en-la-consulta-con-el-adolescente-2aparte-in-consultation-with-an-adolescent-part-2"
 categories: ["Educación","PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/05/Consulta2.jpeg"
+image: "/media/2020/05/Consulta2.jpeg"
 review: true
 ---
 

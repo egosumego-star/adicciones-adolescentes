@@ -3,11 +3,11 @@ title: "Surviving in spite of parents"
 date: 2018-06-22
 key: "sobrevivir-a-pesar-de-los-padres"
 categories: ["PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/Sobrevivir.m4a"
+audio: "/media/2018/06/Sobrevivir.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/IMG-20180622-WA0028.jpg) If you would like to listen to the article in the author's own voice:
+![](/media/2018/06/IMG-20180622-WA0028.jpg) If you would like to listen to the article in the author's own voice:
 
 We have got used to hearing about teenagers only when they do something stupid or commit a crime, just as lately we only hear about parents when they kill a child (filicide).  
 All of us parents do the best we know how, and we should never feel guilty if our offspring leave us disoriented, exhausted, angry, etc. That doesn't mean we have done it wrong or that our child has turned out "faulty".  

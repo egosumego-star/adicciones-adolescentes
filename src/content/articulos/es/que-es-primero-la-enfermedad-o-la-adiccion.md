@@ -3,8 +3,8 @@ title: "¿QUE ES PRIMERO LA ENFERMEDAD O LA ADICCION?"
 date: 2025-03-13
 key: "enfermedad-o-adiccion"
 categories: ["PADRES","SALUD MENTAL","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/03/QUE-ES-PRIMERO.png"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/03/MARCOS.mp3"
+image: "/media/2025/03/QUE-ES-PRIMERO.png"
+audio: "/media/2025/03/MARCOS.mp3"
 ---
 
 Mari Cruz Pérez Icardo, veterinaria de profesión y escritora de vocación, ha creado el breve relato sonoro que acompaña a este artículo.

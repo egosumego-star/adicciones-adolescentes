@@ -3,12 +3,12 @@ title: "La récompense d'être exclu"
 date: 2017-12-17
 key: "premio-te-expulsen"
 categories: ["Educación"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2017/12/alcoholism-treatment-2714476_960_720.jpg"
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2017/12/El-Premio-De-Que-Te-Expulsen.m4a.m4a"
+image: "/media/2017/12/alcoholism-treatment-2714476_960_720.jpg"
+audio: "/media/2017/12/El-Premio-De-Que-Te-Expulsen.m4a.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/12/alcoholism-treatment-2714476_960_720.jpg)
+![](/media/2017/12/alcoholism-treatment-2714476_960_720.jpg)
 
 Si vous souhaitez écouter l'article lu par l'auteur :
 

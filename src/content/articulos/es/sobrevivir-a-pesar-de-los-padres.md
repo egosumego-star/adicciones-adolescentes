@@ -3,10 +3,10 @@ title: "SOBREVIVIR A PESAR DE LOS PADRES"
 date: 2018-06-22
 key: "sobrevivir-a-pesar-de-los-padres"
 categories: ["PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/Sobrevivir.m4a"
+audio: "/media/2018/06/Sobrevivir.m4a"
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/IMG-20180622-WA0028.jpg) Si quieres escuchar el artículo con la voz del autor:
+![](/media/2018/06/IMG-20180622-WA0028.jpg) Si quieres escuchar el artículo con la voz del autor:
 
 Nos hemos acostumbrado a oír hablar de los adolescentes solo cuando cometen alguna estupidez o un delito, al igual que solo se oye hablar de los padres últimamente, cuando matan a un hijo (Filicidio).  
 Todos los progenitores lo hacemos lo mejor que sabemos y nunca nos debemos de sentir culpables si nuestros vástagos nos tienen desorientados, cansados, cabreados, etc. Eso no significa que lo hayamos hecho mal o que el niño nos haya salido “defectuoso”.  

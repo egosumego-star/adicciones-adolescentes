@@ -11,7 +11,7 @@ Una estudiante que me acompañaba en la intervención con los padres de un adole
 
 "Tengo un hijo de 16 años que últimamente cada vez que entra en casa me da un pequeño empujón... Sé que le está pasando algo pero no consigo
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/06/Adolescente1-300x150.jpg) ¿Por que no me entendéis?
+![](/media/2016/06/Adolescente1-300x150.jpg) ¿Por que no me entendéis?
 
 saber que por mucho que le pregunte. Al contrario cuantas más veces le pregunto más se irrita, acabando con un: ¡Déjame en paz!.
 

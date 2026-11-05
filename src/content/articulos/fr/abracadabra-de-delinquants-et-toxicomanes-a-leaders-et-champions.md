@@ -3,11 +3,11 @@ title: "Abracadabra : de « délinquants et toxicomanes » à leaders et champio
 date: 2018-01-12
 key: "magia-potagia-delincuentes-drogadictos-lideres-campeones"
 categories: ["Tratamiento"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/01/MAGIA-POTAGIA.m4a.m4a"
+audio: "/media/2018/01/MAGIA-POTAGIA.m4a.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/01/IMG_0032.jpg-1024x768.jpg)
+![](/media/2018/01/IMG_0032.jpg-1024x768.jpg)
 
 Si vous souhaitez écouter l'article avec la voix de l'auteur (en espagnol) :
 

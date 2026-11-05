@@ -3,7 +3,7 @@ title: "My son is different"
 date: 2022-07-08
 key: "mi-hijo-es-diferente-my-son-is-different"
 categories: ["PADRES","Tratamiento"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2022/07/MiHijo-es-Diferente-scaled.jpg"
+image: "/media/2022/07/MiHijo-es-Diferente-scaled.jpg"
 review: true
 ---
 

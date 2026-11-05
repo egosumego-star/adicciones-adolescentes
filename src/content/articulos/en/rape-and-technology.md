@@ -3,7 +3,7 @@ title: "Rape and technology"
 date: 2023-11-23
 key: "violacion-y-tecnologias"
 categories: ["Educación","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/11/Control-dorgas-700x.jpg"
+image: "/media/2023/11/Control-dorgas-700x.jpg"
 review: true
 ---
 

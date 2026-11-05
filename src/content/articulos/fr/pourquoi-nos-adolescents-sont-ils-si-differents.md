@@ -3,7 +3,7 @@ title: "Pourquoi nos adolescents sont-ils si différents ?"
 date: 2017-04-03
 key: "tan-distintos-actuales-adolescentes"
 categories: ["PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2016/03/mia-teen-visit1.jpg"
+image: "/media/2016/03/mia-teen-visit1.jpg"
 review: true
 ---
 

@@ -3,14 +3,14 @@ title: "¿POR QUÉ MI HIJO ME ODIA?"
 date: 2018-12-23
 key: "por-que-mi-hijo-me-odia"
 categories: ["Educación","PADRES"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/NiñaCabreada-1.jpg"
+image: "/media/2018/12/NiñaCabreada-1.jpg"
 ---
 
 Cabreada.
 
 Si quieres escuchar el artículo con la voz del autor.
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
+<audio src="/media/2018/12/POR-QUE-MI-HIJO-ME-ODIA.m4a" controls="controls"></audio>
 
 Es raro el día en que no escucho el lamento:
 

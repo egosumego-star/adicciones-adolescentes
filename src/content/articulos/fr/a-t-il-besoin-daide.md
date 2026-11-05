@@ -3,11 +3,11 @@ title: "A-t-il besoin d'aide ?"
 date: 2018-10-04
 key: "necesita-ayuda"
 categories: ["PADRES","SALUD MENTAL"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/NECESITA-AYUDA.m4a"
+audio: "/media/2018/10/NECESITA-AYUDA.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Adolescent en train de fumer") Si vous souhaitez écouter l'article avec la voix de l'auteur :
+![](/media/2018/10/1482194300_7b7d5e7e80_b-1024x774.jpg "Adolescent en train de fumer") Si vous souhaitez écouter l'article avec la voix de l'auteur :
 
 Dès sa naissance, l'être humain a besoin d'aide pour survivre ; de plus, nous avons la période d'éducation la plus longue de tous les êtres vivants.  
 Mais cette aide est particulièrement importante dans les maladies mentales et dans les addictions. Dans les deux cas, le malade n'a pas conscience de sa maladie et refuse bien souvent d'être soigné.  

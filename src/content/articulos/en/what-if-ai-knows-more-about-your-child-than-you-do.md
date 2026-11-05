@@ -3,7 +3,7 @@ title: "What if AI knows more about your child than you do?"
 date: 2025-08-08
 key: "ia-y-tu-hijo"
 categories: []
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2025/08/Hijo-IA.png"
+image: "/media/2025/08/Hijo-IA.png"
 ---
 
 When children reach adolescence, something shifts. They start talking less to us.  

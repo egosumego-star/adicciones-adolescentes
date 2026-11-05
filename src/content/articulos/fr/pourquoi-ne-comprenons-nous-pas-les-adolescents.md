@@ -12,7 +12,7 @@ Une étudiante qui m’accompagnait lors d’une intervention auprès des parent
 
 « J’ai un fils de 16 ans qui, ces derniers temps, me donne une petite bousculade chaque fois qu’il rentre à la maison... Je sais qu’il se passe quelque chose, mais je n’arrive pas à
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2016/06/Adolescente1-300x150.jpg) Pourquoi ne me comprenez-vous pas ?
+![](/media/2016/06/Adolescente1-300x150.jpg) Pourquoi ne me comprenez-vous pas ?
 
 savoir quoi, j’ai beau lui demander. Au contraire, plus je lui pose la question, plus il s’énerve, et ça finit par un : Laisse-moi tranquille !
 

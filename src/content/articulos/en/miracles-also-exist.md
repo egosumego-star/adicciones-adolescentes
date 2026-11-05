@@ -3,7 +3,7 @@ title: "Miracles also exist"
 date: 2020-10-04
 key: "los-milagros-tambien-existen-miracles-also-exist"
 categories: ["PADRES","SALUD MENTAL","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2020/10/LosMilagros.jpg"
+image: "/media/2020/10/LosMilagros.jpg"
 review: true
 ---
 

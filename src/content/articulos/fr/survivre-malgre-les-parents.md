@@ -3,11 +3,11 @@ title: "Survivre malgré les parents"
 date: 2018-06-22
 key: "sobrevivir-a-pesar-de-los-padres"
 categories: ["PADRES"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/Sobrevivir.m4a"
+audio: "/media/2018/06/Sobrevivir.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/06/IMG-20180622-WA0028.jpg) Si vous voulez écouter l’article avec la voix de l’auteur :
+![](/media/2018/06/IMG-20180622-WA0028.jpg) Si vous voulez écouter l’article avec la voix de l’auteur :
 
 Nous nous sommes habitués à n’entendre parler des adolescents que lorsqu’ils commettent une bêtise ou un délit, de même que ces derniers temps on n’entend parler des parents que lorsqu’ils tuent un enfant (filicide).  
 Nous, les parents, faisons tous de notre mieux, et nous ne devons jamais nous sentir coupables si nos enfants nous laissent désorientés, épuisés, en colère, etc. Cela ne veut pas dire que nous nous y sommes mal pris ni que l’enfant est sorti « défectueux ».  

@@ -6,11 +6,11 @@ categories: ["Educación","PADRES","Tratamiento"]
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/couch-2615796_960_720.jpg)
+![](/media/2019/02/couch-2615796_960_720.jpg)
 
 If you would like to listen to the article in the author's voice:
 
-<audio src="http://www.adiccionesadolescentes.com/wp-content/uploads/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
+<audio src="/media/2019/02/Ahí-os-lo-dejo.m4a" controls="controls"></audio>
 
 Some time ago we were working with a family and their 14-year-old son. We were still in the first sessions when one day the father turned up, furious, dragging his son by the hand. Suddenly, without a word, he walked into the only office whose door happened to be open at that moment and exclaimed, utterly fed up: "Here, you have him! I'll pick him up when he's cured!"
 

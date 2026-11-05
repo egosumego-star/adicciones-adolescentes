@@ -6,7 +6,7 @@ categories: []
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2017/09/mariposa-1024x683.jpg)
+![](/media/2017/09/mariposa-1024x683.jpg)
 
 When I started working with the parents of teenagers, I found it very difficult to explain to them what was happening physically and emotionally with their children without falling into language full of technical terms and jargon which, far from making me understood, only showed how clumsy I was at connecting with them at a time when they were having such a hard time.  
 So I decided to use an example from nature to make it easier to understand, specifically the transformation of the silkworm:

@@ -3,8 +3,8 @@ title: "Viol et technologies"
 date: 2023-11-23
 key: "violacion-y-tecnologias"
 categories: ["Educación","Tecnología"]
-image: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/11/Control-dorgas-700x.jpg"
-audio: "https://www.adiccionesadolescentes.com/wp-content/uploads/2023/11/VIOLACIONTECNOLOGIAS.mp3"
+image: "/media/2023/11/Control-dorgas-700x.jpg"
+audio: "/media/2023/11/VIOLACIONTECNOLOGIAS.mp3"
 description: "Les addictions vues sous trois angles différents : la jeunesse, les conséquences et le professionnel."
 review: true
 ---

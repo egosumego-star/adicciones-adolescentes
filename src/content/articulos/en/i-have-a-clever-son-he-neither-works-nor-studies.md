@@ -3,11 +3,11 @@ title: "I have a “clever” son: he neither works nor studies"
 date: 2018-02-17
 key: "hijo-listo-trabaja-estudia"
 categories: ["Educación"]
-audio: "http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/TENGO-UN-HIJO-LISTO.m4a"
+audio: "/media/2018/02/TENGO-UN-HIJO-LISTO.m4a"
 review: true
 ---
 
-![](http://www.adiccionesadolescentes.com/wp-content/uploads/2018/02/NINIs.jpg) Neither working nor studying.
+![](/media/2018/02/NINIs.jpg) Neither working nor studying.
 
 If you would like to listen to the article in the author’s own voice (in Spanish):
 
