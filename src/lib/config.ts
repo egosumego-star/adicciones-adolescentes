@@ -6,6 +6,6 @@ export const CONTACT_EMAIL = 'correo@adiccionesadolescentes.com';
 // Mientras esté vacía, la web muestra «la newsletter estará disponible muy pronto».
 export const NEWSLETTER_FORM: Record<'es' | 'en' | 'fr', string> = {
   es: 'https://adiccionesadolescentes.ipzmarketing.com/f/iZ4EN0jRf-4',
-  en: '',
+  en: 'https://adiccionesadolescentes.ipzmarketing.com/f/5ip1IoelEyw',
   fr: '',
 };
